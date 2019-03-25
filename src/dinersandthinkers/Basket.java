@@ -23,10 +23,10 @@ Authors: Philippe Nadon, Jack Shea
 package dinersandthinkers;
 
 public class Basket {
-    int numItems;
-    String itemName;
+    private int numItems;
+    private String itemName;
 
-    public Basket( int numItems, String itemName) {
+    Basket(int numItems, String itemName) {
         this.numItems = numItems;
         this.itemName = itemName;
     }

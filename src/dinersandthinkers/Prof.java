@@ -35,10 +35,30 @@ Authors: Philippe Nadon, Jack Shea
 
 package dinersandthinkers;
 
+import java.util.Random;
+
 public class Prof extends Thread{
+    static final int NUM_NOODLES_TO_EAT = 85;
+    static final int NUM_LINES_TO_WRITE = 200;
+    int noodlesEaten;
+    int linesWritten;
 
     @Override
     public void run(){
-        // main challenge
+        Random rand = new Random();
+        while( (this.noodlesEaten < NUM_NOODLES_TO_EAT) && (this.linesWritten < NUM_LINES_TO_WRITE)) {
+            sleep( rand.nextInt( 100));
+            this.linesWritten += program();
+            System.out.println( this.getName() + " is hungry!");
+            this.noodlesEaten += eat();
+        }
+    }
+
+    private int program() {
+        return 0;
+    }
+
+    private int eat() {
+        return 0;
     }
 }

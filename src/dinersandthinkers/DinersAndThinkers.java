@@ -25,6 +25,7 @@ public class DinersAndThinkers {
     public static void main( String[] args) {
         Scanner userIn = new Scanner( System.in);
         int numForks, numBibs, numProfs;
+        Prof[] profArray;
         String[] profNames;
 
         System.out.println( "Enter the number of profs: ");
@@ -39,11 +40,13 @@ public class DinersAndThinkers {
         System.out.println( "Enter the number of bibs: ");
         numBibs = userIn.nextInt();
 
-        // Basket BibBasket = new Basket( numBibs, "bib");
-        // Basket forkBasket = new Basket( numForks, "fork");
+        Basket BibBasket = new Basket( numBibs, "bib");
+        Basket forkBasket = new Basket( numForks, "fork");
 
-        // for...
-        // Prof threadVar = new Prof()
-        // setName...?
+        profArray = new Prof[ numProfs];
+        for( int i = 0; i < numProfs; i++) {
+            profArray[i] = new Prof();
+            profArray[i].setName( profNames[i]);
+        }
     }
 }
