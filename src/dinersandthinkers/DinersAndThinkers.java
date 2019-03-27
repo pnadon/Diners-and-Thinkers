@@ -9,12 +9,6 @@ Steps performed (all prompts assume return positive int):
     - prompt number of bibs
     - create prof threads AS CLOSE IN TIME AS POSSIBLE
 
-Considerations for project ( not necessarily this file):
-    - sleep( time);
-    - wait( time);
-    - notifyAll();
-    - ILLEGAL: java.util.concurrency ( DO NOT USE)
-
 Authors: Philippe Nadon, Jack Shea
  */
 package dinersandthinkers;
@@ -24,29 +18,31 @@ public class DinersAndThinkers {
 
     public static void main( String[] args) {
         Scanner userIn = new Scanner( System.in);
-        int numForks, numBibs, numProfs;
-        Prof[] profArray;
-        String[] profNames;
 
         System.out.println( "Enter the number of profs: ");
-        numProfs = userIn.nextInt();
+        int numProfs = userIn.nextInt();
+        userIn.nextLine();
 
         System.out.println( "Enter the names of the profs, separated by commas (, ): ");
-        profNames = userIn.next().split(", ");
+        String[] profNames = userIn.nextLine().split(", ");
 
         System.out.println( "Enter the number of forks: ");
-        numForks = userIn.nextInt();
+        int numForks = userIn.nextInt();
 
         System.out.println( "Enter the number of bibs: ");
-        numBibs = userIn.nextInt();
+        int numBibs = userIn.nextInt();
 
         Basket BibBasket = new Basket( numBibs, "bib");
-        Basket forkBasket = new Basket( numForks, "fork");
+        Basket ForkBasket = new Basket( numForks, "fork");
 
-        profArray = new Prof[ numProfs];
+        Prof[] profArray = new Prof[numProfs];
         for( int i = 0; i < numProfs; i++) {
-            profArray[i] = new Prof();
+            profArray[i] = new Prof( BibBasket, ForkBasket);
             profArray[i].setName( profNames[i]);
+        }
+        // for loop split to start threads as closely as possible.
+        for( int i = 0; i < numProfs; i++) {
+            profArray[i].start();
         }
     }
 }

@@ -26,24 +26,46 @@ public class Basket {
     private int numItems;
     private String itemName;
 
+    /*
+    Constructor for Basket class.
+     */
     Basket(int numItems, String itemName) {
         this.numItems = numItems;
         this.itemName = itemName;
     }
 
-    public boolean getItem( int timeout, String profName) {
+    /*
+    Simulates getting an item from the basket, by waiting until an item is available and then decrementing numItems.
+    A timeout is used to ensure there is no deadlock.
+    Method is synchronized to ensure no data races, as only one thread can access this method at a time.
+     */
+    public synchronized boolean getItem( int timeout, String profName) {
         System.out.println("===" +
             profName + " is waiting for a " + this.itemName);
-        // implement timeout
-        System.out.println("===" +
-            "A " + this.itemName + " was lent to " + profName);
-        this.numItems--;
-        return true;
+        System.out.println("===there are " + this.numItems + " " + this.itemName);
+        if(this.numItems == 0){
+            try {
+                wait( timeout);
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
+            return false;
+        } else {
+            System.out.println("===" +
+                    "A " + this.itemName + " was lent to " + profName);
+            this.numItems--;
+            return true;
+        }
     }
 
-    public void returnItem( String profName) {
+    /*
+    Simulates returning an item to the basket, by incrementing numItems and notifying other threads of this change.
+    Method is synchronized to ensure no data races, as only one thread can access this method at a time.
+     */
+    public synchronized void returnItem( String profName) {
         System.out.println("===" +
             "A " + this.itemName + " was returned by " + profName);
         this.numItems++;
+        notifyAll();
     }
 }
