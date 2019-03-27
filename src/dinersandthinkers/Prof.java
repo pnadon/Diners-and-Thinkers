@@ -109,15 +109,16 @@ public class Prof extends Thread{
     private int eatNoodles() {
         Random rand = new Random();
         boolean pickBibFirst;
-        boolean obtainedBibOrFork = false;
-        while( !obtainedBibOrFork) {
+        boolean obtainedBibAndFork = false;
+
+        while( !obtainedBibAndFork) {
             pickBibFirst = rand.nextBoolean();
             if (pickBibFirst) {
                 while (true) {
                     if (this.BibBasket.getItem(1000, getName())) break;
                 }
                 if (this.ForkBasket.getItem(1000, getName())) {
-                    obtainedBibOrFork = true;
+                    obtainedBibAndFork = true;
                 } else {
                     this.BibBasket.returnItem(getName());
                 }
@@ -127,7 +128,7 @@ public class Prof extends Thread{
                     if (this.ForkBasket.getItem(1000, getName())) break;
                 }
                 if (this.BibBasket.getItem(1000, getName())) {
-                    obtainedBibOrFork = true;
+                    obtainedBibAndFork = true;
                 }
                 else {
                     this.ForkBasket.returnItem( getName());
