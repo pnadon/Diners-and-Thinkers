@@ -39,22 +39,30 @@ public class Basket {
     A timeout is used to ensure there is no deadlock.
     Method is synchronized to ensure no data races, as only one thread can access this method at a time.
      */
-    public synchronized boolean getItem( int timeout, String profName) {
+    public boolean getItem( int timeout, String profName) {
         System.out.println("===" +
-            profName + " is waiting for a " + this.itemName);
+            profName + " wants a " + this.itemName);
         System.out.println("===there are " + this.numItems + " " + this.itemName);
-        if(this.numItems == 0){
-            try {
-                wait( timeout);
-            } catch (InterruptedException e) {
-                e.printStackTrace();
+        synchronized (this) {
+            boolean itemAvailable = (this.numItems > 0);
+            if (!itemAvailable) {
+                System.out.println("===" +
+                        profName + " is waiting for a " + this.itemName);
+                try {
+                    this.wait(timeout);
+                } catch (InterruptedException e) {
+                    System.out.println("===" +
+                            profName + " was notified of an available " + this.itemName);
+                    System.out.println("===there are " + this.numItems + " " + this.itemName);
+                    itemAvailable = (this.numItems > 0);
+                }
             }
-            return false;
-        } else {
-            System.out.println("===" +
-                    "A " + this.itemName + " was lent to " + profName);
-            this.numItems--;
-            return true;
+            if (itemAvailable) {
+                System.out.println("===" +
+                        "A " + this.itemName + " was lent to " + profName);
+                this.numItems--;
+            }
+            return itemAvailable;
         }
     }
 
@@ -62,10 +70,12 @@ public class Basket {
     Simulates returning an item to the basket, by incrementing numItems and notifying other threads of this change.
     Method is synchronized to ensure no data races, as only one thread can access this method at a time.
      */
-    public synchronized void returnItem( String profName) {
+    public void returnItem( String profName) {
         System.out.println("===" +
             "A " + this.itemName + " was returned by " + profName);
-        this.numItems++;
-        notifyAll();
+        synchronized (this) {
+            this.numItems++;
+            this.notifyAll();
+        }
     }
 }
