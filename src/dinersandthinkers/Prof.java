@@ -118,17 +118,17 @@ public class Prof extends Thread{
                 if (this.BibBasket.getItem(1000, getName())) {
                     obtainedBib = true;
                 }
-                if (this.ForkBasket.getItem(1000, getName())) {
+                if (this.ForkBasket.getItem(1100, getName())) {
                     obtainedFork = true;
                 } else {
                     this.BibBasket.returnItem(getName());
                 }
             }
             else{
-                if (this.ForkBasket.getItem(1000, getName())) {
+                if (this.ForkBasket.getItem(1075, getName())) {
                     obtainedFork = true;
                 }
-                if (this.BibBasket.getItem(1000, getName())) {
+                if (this.BibBasket.getItem(1025, getName())) {
                     obtainedBib = true;
                 } else {
                     this.ForkBasket.returnItem(getName());

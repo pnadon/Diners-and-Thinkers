@@ -22,7 +22,7 @@ Authors: Philippe Nadon, Jack Shea
 
 package dinersandthinkers;
 
-public class Basket {
+class Basket {
     private int numItems;
     private String itemName;
 
@@ -39,7 +39,7 @@ public class Basket {
     A timeout is used to ensure there is no deadlock.
     Method is synchronized to ensure no data races, as only one thread can access this method at a time.
      */
-    public boolean getItem( int timeout, String profName) {
+    boolean getItem( int timeout, String profName) {
         System.out.println("===" +
             profName + " wants a " + this.itemName);
         System.out.println("===there are " + this.numItems + " " + this.itemName);
@@ -70,7 +70,7 @@ public class Basket {
     Simulates returning an item to the basket, by incrementing numItems and notifying other threads of this change.
     Method is synchronized to ensure no data races, as only one thread can access this method at a time.
      */
-    public void returnItem( String profName) {
+    void returnItem( String profName) {
         System.out.println("===" +
             "A " + this.itemName + " was returned by " + profName);
         synchronized (this) {
