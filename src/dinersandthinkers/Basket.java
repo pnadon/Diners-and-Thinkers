@@ -40,6 +40,8 @@ class Basket {
     Method is synchronized to ensure no data races, as only one thread can access this method at a time.
      */
     boolean getItem( int timeout, String profName) {
+        long startWait;
+        long waitMilliSeconds;
         System.out.println("===" +
             profName + " wants a " + this.itemName);
         System.out.println("===there are " + this.numItems + " " + this.itemName);
@@ -48,14 +50,15 @@ class Basket {
             if (!itemAvailable) {
                 System.out.println("===" +
                         profName + " is waiting for a " + this.itemName);
+                startWait = System.nanoTime();
                 try {
-                    this.wait(timeout);
+                    this.wait( timeout);
                 } catch (InterruptedException e) {
-                    System.out.println("===" +
-                            profName + " was notified of an available " + this.itemName);
-                    System.out.println("===there are " + this.numItems + " " + this.itemName);
-                    itemAvailable = (this.numItems > 0);
+                    e.printStackTrace();
                 }
+                waitMilliSeconds = (System.nanoTime() - startWait) / 1000000;
+                System.out.println("===" +
+                        profName + " waited " + waitMilliSeconds + "ms for a " + this.itemName);
             }
             if (itemAvailable) {
                 System.out.println("===" +

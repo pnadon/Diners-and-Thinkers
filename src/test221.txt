@@ -1,0 +1,506 @@
+Enter the number of profs: 
+2
+Enter the names of the profs, separated by commas (, ): 
+PROF_1, PROF_2
+Enter the number of forks: 
+2
+Enter the number of bibs: 
+1
+PROF_2 is sleeping!
+PROF_1 is sleeping!
+PROF_2 wrote 16 lines of code, total: 16
+PROF_1 wrote 19 lines of code, total: 19
+PROF_2 is hungry!
+PROF_1 is hungry!
+===PROF_2 wants a fork
+===PROF_1 wants a fork
+===there are 2 fork
+===there are 2 fork
+===A fork was lent to PROF_2
+===PROF_2 wants a bib
+===A fork was lent to PROF_1
+===there are 1 bib
+===PROF_1 wants a bib
+===A bib was lent to PROF_2
+===there are 1 bib
+===PROF_1 is waiting for a bib
+===A bib was returned by PROF_2
+===A fork was returned by PROF_2
+PROF_2 ate 3 noodles, total: 3
+PROF_2 is sleeping!
+===PROF_1 waited 305ms for a bib
+===A fork was returned by PROF_1
+===PROF_1 wants a bib
+===there are 1 bib
+===A bib was lent to PROF_1
+===PROF_1 wants a fork
+===there are 2 fork
+===A fork was lent to PROF_1
+PROF_2 wrote 8 lines of code, total: 24
+PROF_2 is hungry!
+===PROF_2 wants a bib
+===there are 0 bib
+===PROF_2 is waiting for a bib
+===A fork was returned by PROF_1
+===A bib was returned by PROF_1
+PROF_1 ate 7 noodles, total: 7
+===PROF_2 waited 693ms for a bib
+===PROF_2 wants a bib
+===there are 1 bib
+PROF_1 is sleeping!
+===A bib was lent to PROF_2
+===PROF_2 wants a fork
+===there are 2 fork
+===A fork was lent to PROF_2
+PROF_1 wrote 14 lines of code, total: 33
+PROF_1 is hungry!
+===PROF_1 wants a bib
+===there are 0 bib
+===PROF_1 is waiting for a bib
+===A bib was returned by PROF_2
+===A fork was returned by PROF_2
+PROF_2 ate 3 noodles, total: 6
+PROF_2 is sleeping!
+===PROF_1 waited 218ms for a bib
+===PROF_1 wants a fork
+===there are 2 fork
+===A fork was lent to PROF_1
+===PROF_1 wants a bib
+===there are 1 bib
+===A bib was lent to PROF_1
+PROF_2 wrote 19 lines of code, total: 43
+PROF_2 is hungry!
+===PROF_2 wants a bib
+===there are 0 bib
+===PROF_2 is waiting for a bib
+===A fork was returned by PROF_1
+===A bib was returned by PROF_1
+PROF_1 ate 7 noodles, total: 14
+PROF_1 is sleeping!
+===PROF_2 waited 623ms for a bib
+===PROF_2 wants a fork
+===there are 2 fork
+===A fork was lent to PROF_2
+===PROF_2 wants a bib
+===there are 1 bib
+===A bib was lent to PROF_2
+PROF_1 wrote 13 lines of code, total: 46
+PROF_1 is hungry!
+===PROF_1 wants a bib
+===there are 0 bib
+===PROF_1 is waiting for a bib
+===A bib was returned by PROF_2
+===A fork was returned by PROF_2
+PROF_2 ate 4 noodles, total: 10
+===PROF_1 waited 330ms for a bib
+===PROF_1 wants a bib
+===there are 1 bib
+PROF_2 is sleeping!
+===A bib was lent to PROF_1
+===PROF_1 wants a fork
+===there are 2 fork
+===A fork was lent to PROF_1
+PROF_2 wrote 13 lines of code, total: 56
+PROF_2 is hungry!
+===PROF_2 wants a bib
+===there are 0 bib
+===PROF_2 is waiting for a bib
+===A fork was returned by PROF_1
+===A bib was returned by PROF_1
+PROF_1 ate 3 noodles, total: 17
+===PROF_2 waited 222ms for a bib
+PROF_1 is sleeping!
+===PROF_2 wants a bib
+===there are 1 bib
+===A bib was lent to PROF_2
+===PROF_2 wants a fork
+===there are 2 fork
+===A fork was lent to PROF_2
+PROF_1 wrote 11 lines of code, total: 57
+PROF_1 is hungry!
+===PROF_1 wants a fork
+===there are 1 fork
+===A fork was lent to PROF_1
+===PROF_1 wants a bib
+===there are 0 bib
+===PROF_1 is waiting for a bib
+===A bib was returned by PROF_2
+===A fork was returned by PROF_2
+===PROF_1 waited 353ms for a bib
+PROF_2 ate 4 noodles, total: 14
+PROF_2 is sleeping!
+===A fork was returned by PROF_1
+===PROF_1 wants a fork
+===there are 2 fork
+===A fork was lent to PROF_1
+===PROF_1 wants a bib
+===there are 1 bib
+===A bib was lent to PROF_1
+PROF_2 wrote 20 lines of code, total: 76
+PROF_2 is hungry!
+===PROF_2 wants a fork
+===there are 1 fork
+===A fork was lent to PROF_2
+===PROF_2 wants a bib
+===there are 0 bib
+===PROF_2 is waiting for a bib
+===A fork was returned by PROF_1
+===A bib was returned by PROF_1
+PROF_1 ate 7 noodles, total: 24
+PROF_1 is sleeping!
+===PROF_2 waited 583ms for a bib
+===A fork was returned by PROF_2
+===PROF_2 wants a fork
+===there are 2 fork
+===A fork was lent to PROF_2
+===PROF_2 wants a bib
+===there are 1 bib
+===A bib was lent to PROF_2
+PROF_1 wrote 13 lines of code, total: 70
+PROF_1 is hungry!
+===PROF_1 wants a fork
+===there are 1 fork
+===A fork was lent to PROF_1
+===PROF_1 wants a bib
+===there are 0 bib
+===PROF_1 is waiting for a bib
+===A fork was returned by PROF_2
+===A bib was returned by PROF_2
+PROF_2 ate 3 noodles, total: 17
+PROF_2 is sleeping!
+===PROF_1 waited 229ms for a bib
+===A fork was returned by PROF_1
+===PROF_1 wants a fork
+===there are 2 fork
+===A fork was lent to PROF_1
+===PROF_1 wants a bib
+===there are 1 bib
+===A bib was lent to PROF_1
+PROF_2 wrote 14 lines of code, total: 90
+PROF_2 is hungry!
+===PROF_2 wants a fork
+===there are 1 fork
+===A fork was lent to PROF_2
+===PROF_2 wants a bib
+===there are 0 bib
+===PROF_2 is waiting for a bib
+===A fork was returned by PROF_1
+===A bib was returned by PROF_1
+PROF_1 ate 9 noodles, total: 33
+===PROF_2 waited 834ms for a bib
+===A fork was returned by PROF_2
+PROF_1 is sleeping!
+===PROF_2 wants a fork
+===there are 2 fork
+===A fork was lent to PROF_2
+===PROF_2 wants a bib
+===there are 1 bib
+===A bib was lent to PROF_2
+PROF_1 wrote 9 lines of code, total: 79
+PROF_1 is hungry!
+===PROF_1 wants a fork
+===there are 1 fork
+===A fork was lent to PROF_1
+===PROF_1 wants a bib
+===there are 0 bib
+===PROF_1 is waiting for a bib
+===A bib was returned by PROF_2
+===A fork was returned by PROF_2
+PROF_2 ate 5 noodles, total: 22
+PROF_2 is sleeping!
+===PROF_1 waited 431ms for a bib
+===A fork was returned by PROF_1
+===PROF_1 wants a bib
+===there are 1 bib
+===A bib was lent to PROF_1
+===PROF_1 wants a fork
+===there are 2 fork
+===A fork was lent to PROF_1
+PROF_2 wrote 16 lines of code, total: 106
+PROF_2 is hungry!
+===PROF_2 wants a bib
+===there are 0 bib
+===PROF_2 is waiting for a bib
+===A bib was returned by PROF_1
+===A fork was returned by PROF_1
+===PROF_2 waited 113ms for a bib
+===PROF_2 wants a fork
+===there are 2 fork
+PROF_1 ate 2 noodles, total: 35
+PROF_1 is sleeping!
+===A fork was lent to PROF_2
+===PROF_2 wants a bib
+===there are 1 bib
+===A bib was lent to PROF_2
+PROF_1 wrote 7 lines of code, total: 86
+PROF_1 is hungry!
+===PROF_1 wants a bib
+===there are 0 bib
+===PROF_1 is waiting for a bib
+===A fork was returned by PROF_2
+===A bib was returned by PROF_2
+PROF_2 ate 3 noodles, total: 25
+PROF_2 is sleeping!
+===PROF_1 waited 212ms for a bib
+===PROF_1 wants a fork
+===there are 2 fork
+===A fork was lent to PROF_1
+===PROF_1 wants a bib
+===there are 1 bib
+===A bib was lent to PROF_1
+PROF_2 wrote 17 lines of code, total: 123
+PROF_2 is hungry!
+===PROF_2 wants a bib
+===there are 0 bib
+===PROF_2 is waiting for a bib
+===A fork was returned by PROF_1
+===A bib was returned by PROF_1
+PROF_1 ate 10 noodles, total: 45
+===PROF_2 waited 889ms for a bib
+PROF_1 is sleeping!
+===PROF_2 wants a bib
+===there are 1 bib
+===A bib was lent to PROF_2
+===PROF_2 wants a fork
+===there are 2 fork
+===A fork was lent to PROF_2
+PROF_1 wrote 5 lines of code, total: 91
+PROF_1 is hungry!
+===PROF_1 wants a fork
+===there are 1 fork
+===A fork was lent to PROF_1
+===PROF_1 wants a bib
+===there are 0 bib
+===PROF_1 is waiting for a bib
+===A bib was returned by PROF_2
+===A fork was returned by PROF_2
+PROF_2 ate 10 noodles, total: 35
+PROF_2 is sleeping!
+===PROF_1 waited 906ms for a bib
+===A fork was returned by PROF_1
+===PROF_1 wants a bib
+===there are 1 bib
+===A bib was lent to PROF_1
+===PROF_1 wants a fork
+===there are 2 fork
+===A fork was lent to PROF_1
+PROF_2 wrote 8 lines of code, total: 131
+PROF_2 is hungry!
+===PROF_2 wants a bib
+===there are 0 bib
+===PROF_2 is waiting for a bib
+===A fork was returned by PROF_1
+===A bib was returned by PROF_1
+PROF_1 ate 4 noodles, total: 49
+PROF_1 is sleeping!
+===PROF_2 waited 389ms for a bib
+===PROF_2 wants a fork
+===there are 2 fork
+===A fork was lent to PROF_2
+===PROF_2 wants a bib
+===there are 1 bib
+===A bib was lent to PROF_2
+PROF_1 wrote 17 lines of code, total: 108
+PROF_1 is hungry!
+===PROF_1 wants a fork
+===there are 1 fork
+===A fork was lent to PROF_1
+===PROF_1 wants a bib
+===there are 0 bib
+===PROF_1 is waiting for a bib
+===A bib was returned by PROF_2
+===A fork was returned by PROF_2
+===PROF_1 waited 599ms for a bib
+===A fork was returned by PROF_1
+PROF_2 ate 7 noodles, total: 42
+===PROF_1 wants a fork
+===there are 2 fork
+===A fork was lent to PROF_1
+PROF_2 is sleeping!
+===PROF_1 wants a bib
+===there are 1 bib
+===A bib was lent to PROF_1
+PROF_2 wrote 19 lines of code, total: 150
+PROF_2 is hungry!
+===PROF_2 wants a fork
+===there are 1 fork
+===A fork was lent to PROF_2
+===PROF_2 wants a bib
+===there are 0 bib
+===PROF_2 is waiting for a bib
+===A bib was returned by PROF_1
+===A fork was returned by PROF_1
+PROF_1 ate 9 noodles, total: 58
+PROF_1 is sleeping!
+===PROF_2 waited 827ms for a bib
+===A fork was returned by PROF_2
+===PROF_2 wants a bib
+===there are 1 bib
+===A bib was lent to PROF_2
+===PROF_2 wants a fork
+===there are 2 fork
+===A fork was lent to PROF_2
+PROF_1 wrote 6 lines of code, total: 114
+PROF_1 is hungry!
+===PROF_1 wants a fork
+===there are 1 fork
+===A fork was lent to PROF_1
+===PROF_1 wants a bib
+===there are 0 bib
+===PROF_1 is waiting for a bib
+===A fork was returned by PROF_2
+===A bib was returned by PROF_2
+PROF_2 ate 9 noodles, total: 51
+PROF_2 is sleeping!
+===PROF_1 waited 795ms for a bib
+===A fork was returned by PROF_1
+===PROF_1 wants a fork
+===there are 2 fork
+===A fork was lent to PROF_1
+===PROF_1 wants a bib
+===there are 1 bib
+===A bib was lent to PROF_1
+PROF_2 wrote 13 lines of code, total: 163
+PROF_2 is hungry!
+===PROF_2 wants a bib
+===there are 0 bib
+===PROF_2 is waiting for a bib
+===A bib was returned by PROF_1
+===A fork was returned by PROF_1
+PROF_1 ate 10 noodles, total: 68
+PROF_1 is sleeping!
+===PROF_2 waited 968ms for a bib
+===PROF_2 wants a bib
+===there are 1 bib
+===A bib was lent to PROF_2
+===PROF_2 wants a fork
+===there are 2 fork
+===A fork was lent to PROF_2
+PROF_1 wrote 16 lines of code, total: 130
+PROF_1 is hungry!
+===PROF_1 wants a bib
+===there are 0 bib
+===PROF_1 is waiting for a bib
+===A fork was returned by PROF_2
+===A bib was returned by PROF_2
+PROF_2 ate 7 noodles, total: 58
+PROF_2 is sleeping!
+===PROF_1 waited 599ms for a bib
+===PROF_1 wants a bib
+===there are 1 bib
+===A bib was lent to PROF_1
+===PROF_1 wants a fork
+===there are 2 fork
+===A fork was lent to PROF_1
+PROF_2 wrote 17 lines of code, total: 180
+PROF_2 is hungry!
+===PROF_2 wants a fork
+===there are 1 fork
+===A fork was lent to PROF_2
+===PROF_2 wants a bib
+===there are 0 bib
+===PROF_2 is waiting for a bib
+===A fork was returned by PROF_1
+===A bib was returned by PROF_1
+PROF_1 ate 4 noodles, total: 72
+PROF_1 is sleeping!
+===PROF_2 waited 308ms for a bib
+===A fork was returned by PROF_2
+===PROF_2 wants a fork
+===there are 2 fork
+===A fork was lent to PROF_2
+===PROF_2 wants a bib
+===there are 1 bib
+===A bib was lent to PROF_2
+PROF_1 wrote 20 lines of code, total: 150
+PROF_1 is hungry!
+===PROF_1 wants a bib
+===there are 0 bib
+===PROF_1 is waiting for a bib
+===A bib was returned by PROF_2
+===A fork was returned by PROF_2
+===PROF_1 waited 350ms for a bib
+PROF_2 ate 4 noodles, total: 62
+PROF_2 is sleeping!
+===PROF_1 wants a bib
+===there are 1 bib
+===A bib was lent to PROF_1
+===PROF_1 wants a fork
+===there are 2 fork
+===A fork was lent to PROF_1
+PROF_2 wrote 17 lines of code, total: 197
+PROF_2 is hungry!
+===PROF_2 wants a bib
+===there are 0 bib
+===PROF_2 is waiting for a bib
+===A bib was returned by PROF_1
+===A fork was returned by PROF_1
+===PROF_2 waited 499ms for a bib
+PROF_1 ate 6 noodles, total: 78
+PROF_1 is sleeping!
+===PROF_2 wants a bib
+===there are 1 bib
+===A bib was lent to PROF_2
+===PROF_2 wants a fork
+===there are 2 fork
+===A fork was lent to PROF_2
+PROF_1 wrote 5 lines of code, total: 155
+PROF_1 is hungry!
+===PROF_1 wants a fork
+===there are 1 fork
+===A fork was lent to PROF_1
+===PROF_1 wants a bib
+===there are 0 bib
+===PROF_1 is waiting for a bib
+===A fork was returned by PROF_2
+===A bib was returned by PROF_2
+PROF_2 ate 7 noodles, total: 69
+===PROF_1 waited 659ms for a bib
+PROF_2 is sleeping!
+===A fork was returned by PROF_1
+===PROF_1 wants a bib
+===there are 1 bib
+===A bib was lent to PROF_1
+===PROF_1 wants a fork
+===there are 2 fork
+===A fork was lent to PROF_1
+PROF_2 wrote 8 lines of code, total: 205
+PROF_2 is hungry!
+===PROF_2 wants a fork
+===there are 1 fork
+===A fork was lent to PROF_2
+===PROF_2 wants a bib
+===there are 0 bib
+===PROF_2 is waiting for a bib
+===A fork was returned by PROF_1
+===A bib was returned by PROF_1
+PROF_1 ate 3 noodles, total: 81
+PROF_1 is sleeping!
+===PROF_2 waited 213ms for a bib
+===A fork was returned by PROF_2
+===PROF_2 wants a fork
+===there are 2 fork
+===A fork was lent to PROF_2
+===PROF_2 wants a bib
+===there are 1 bib
+===A bib was lent to PROF_2
+PROF_1 wrote 14 lines of code, total: 169
+PROF_1 is hungry!
+===PROF_1 wants a bib
+===there are 0 bib
+===PROF_1 is waiting for a bib
+===A bib was returned by PROF_2
+===A fork was returned by PROF_2
+PROF_2 ate 10 noodles, total: 79
+===PROF_1 waited 908ms for a bib
+===PROF_1 wants a bib
+===there are 1 bib
+===A bib was lent to PROF_1
+===PROF_1 wants a fork
+===there are 2 fork
+===A fork was lent to PROF_1
+===============>PROF_2 is done!
+===A fork was returned by PROF_1
+===A bib was returned by PROF_1
+PROF_1 ate 10 noodles, total: 91
+===============>PROF_1 is done!

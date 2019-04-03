@@ -1,0 +1,829 @@
+Enter the number of profs: 
+5
+Enter the names of the profs, separated by commas (, ): 
+P1, P2, P3, P4, P5
+Enter the number of forks: 
+5
+Enter the number of bibs: 
+5
+P4 is sleeping!
+P5 is sleeping!
+P2 is sleeping!
+P1 is sleeping!
+P3 is sleeping!
+P1 wrote 16 lines of code, total: 16
+P2 wrote 11 lines of code, total: 11
+P1 is hungry!
+P2 is hungry!
+===P1 wants a bib
+===P2 wants a bib
+===there are 5 bib
+===there are 5 bib
+===A bib was lent to P2
+===P2 wants a fork
+===there are 5 fork
+===A bib was lent to P1
+===A fork was lent to P2
+===P1 wants a fork
+===there are 4 fork
+===A fork was lent to P1
+P4 wrote 19 lines of code, total: 19
+P4 is hungry!
+===P4 wants a bib
+===there are 3 bib
+===A bib was lent to P4
+===P4 wants a fork
+===there are 3 fork
+===A fork was lent to P4
+P3 wrote 8 lines of code, total: 8
+P3 is hungry!
+===P3 wants a bib
+===there are 2 bib
+===A bib was lent to P3
+===P3 wants a fork
+===there are 2 fork
+===A fork was lent to P3
+P5 wrote 16 lines of code, total: 16
+P5 is hungry!
+===P5 wants a fork
+===there are 1 fork
+===A fork was lent to P5
+===P5 wants a bib
+===there are 1 bib
+===A bib was lent to P5
+===A bib was returned by P3
+===A fork was returned by P3
+P3 ate 3 noodles, total: 3
+P3 is sleeping!
+P3 wrote 7 lines of code, total: 15
+P3 is hungry!
+===P3 wants a fork
+===there are 1 fork
+===A fork was lent to P3
+===P3 wants a bib
+===there are 1 bib
+===A bib was lent to P3
+===A fork was returned by P1
+===A bib was returned by P1
+P1 ate 4 noodles, total: 4
+P1 is sleeping!
+===A bib was returned by P4
+===A fork was returned by P4
+P4 ate 4 noodles, total: 4
+P4 is sleeping!
+P4 wrote 19 lines of code, total: 38
+P4 is hungry!
+===P4 wants a bib
+===there are 2 bib
+===A bib was lent to P4
+===P4 wants a fork
+===there are 2 fork
+===A fork was lent to P4
+===A bib was returned by P5
+===A fork was returned by P5
+P5 ate 4 noodles, total: 4
+P5 is sleeping!
+===A fork was returned by P2
+===A bib was returned by P2
+P2 ate 5 noodles, total: 5
+P2 is sleeping!
+P5 wrote 9 lines of code, total: 25
+P5 is hungry!
+===P5 wants a bib
+===there are 3 bib
+===A bib was lent to P5
+===P5 wants a fork
+===there are 3 fork
+===A fork was lent to P5
+P1 wrote 6 lines of code, total: 22
+P1 is hungry!
+===P1 wants a bib
+===there are 2 bib
+===A bib was lent to P1
+===P1 wants a fork
+===there are 2 fork
+===A fork was lent to P1
+P2 wrote 18 lines of code, total: 29
+P2 is hungry!
+===P2 wants a bib
+===there are 1 bib
+===A bib was lent to P2
+===P2 wants a fork
+===there are 1 fork
+===A fork was lent to P2
+===A fork was returned by P2
+===A bib was returned by P2
+P2 ate 5 noodles, total: 10
+P2 is sleeping!
+===A fork was returned by P1
+===A bib was returned by P1
+P1 ate 6 noodles, total: 10
+P1 is sleeping!
+===A fork was returned by P4
+===A bib was returned by P4
+P4 ate 7 noodles, total: 11
+P4 is sleeping!
+P1 wrote 16 lines of code, total: 38
+P1 is hungry!
+===P1 wants a bib
+===there are 3 bib
+===A bib was lent to P1
+===P1 wants a fork
+===there are 3 fork
+===A fork was lent to P1
+P2 wrote 17 lines of code, total: 46
+P2 is hungry!
+===P2 wants a bib
+===there are 2 bib
+===A bib was lent to P2
+===P2 wants a fork
+===there are 2 fork
+===A fork was lent to P2
+P4 wrote 7 lines of code, total: 45
+P4 is hungry!
+===P4 wants a fork
+===there are 1 fork
+===A fork was lent to P4
+===P4 wants a bib
+===there are 1 bib
+===A bib was lent to P4
+===A bib was returned by P3
+===A fork was returned by P3
+P3 ate 8 noodles, total: 11
+P3 is sleeping!
+P3 wrote 6 lines of code, total: 21
+P3 is hungry!
+===P3 wants a fork
+===there are 1 fork
+===A fork was lent to P3
+===P3 wants a bib
+===there are 1 bib
+===A bib was lent to P3
+===A fork was returned by P4
+===A bib was returned by P4
+P4 ate 2 noodles, total: 13
+P4 is sleeping!
+===A bib was returned by P5
+===A fork was returned by P5
+P5 ate 9 noodles, total: 13
+P5 is sleeping!
+P5 wrote 13 lines of code, total: 38
+P5 is hungry!
+===P5 wants a fork
+===there are 2 fork
+===A fork was lent to P5
+===P5 wants a bib
+===there are 2 bib
+===A bib was lent to P5
+P4 wrote 7 lines of code, total: 52
+P4 is hungry!
+===P4 wants a fork
+===there are 1 fork
+===A fork was lent to P4
+===P4 wants a bib
+===there are 1 bib
+===A bib was lent to P4
+===A fork was returned by P1
+===A bib was returned by P1
+P1 ate 5 noodles, total: 15
+P1 is sleeping!
+P1 wrote 13 lines of code, total: 51
+P1 is hungry!
+===P1 wants a fork
+===there are 1 fork
+===A fork was lent to P1
+===P1 wants a bib
+===there are 1 bib
+===A bib was lent to P1
+===A bib was returned by P5
+===A fork was returned by P5
+P5 ate 4 noodles, total: 17
+P5 is sleeping!
+===A fork was returned by P2
+===A bib was returned by P2
+P2 ate 7 noodles, total: 17
+P2 is sleeping!
+P5 wrote 7 lines of code, total: 45
+P5 is hungry!
+===P5 wants a bib
+===there are 2 bib
+===A bib was lent to P5
+===P5 wants a fork
+===there are 2 fork
+===A fork was lent to P5
+P2 wrote 12 lines of code, total: 58
+P2 is hungry!
+===P2 wants a fork
+===there are 1 fork
+===A fork was lent to P2
+===P2 wants a bib
+===there are 1 bib
+===A bib was lent to P2
+===A fork was returned by P3
+===A bib was returned by P3
+P3 ate 10 noodles, total: 21
+P3 is sleeping!
+===A bib was returned by P4
+===A fork was returned by P4
+P4 ate 8 noodles, total: 21
+P4 is sleeping!
+P3 wrote 15 lines of code, total: 36
+P3 is hungry!
+===P3 wants a bib
+===there are 2 bib
+===A bib was lent to P3
+===P3 wants a fork
+===there are 2 fork
+===A fork was lent to P3
+P4 wrote 11 lines of code, total: 63
+P4 is hungry!
+===P4 wants a bib
+===there are 1 bib
+===A bib was lent to P4
+===P4 wants a fork
+===there are 1 fork
+===A fork was lent to P4
+===A fork was returned by P5
+===A bib was returned by P5
+P5 ate 7 noodles, total: 24
+P5 is sleeping!
+P5 wrote 11 lines of code, total: 56
+P5 is hungry!
+===P5 wants a bib
+===there are 1 bib
+===A bib was lent to P5
+===P5 wants a fork
+===there are 1 fork
+===A fork was lent to P5
+===A bib was returned by P1
+===A fork was returned by P1
+P1 ate 9 noodles, total: 24
+P1 is sleeping!
+P1 wrote 10 lines of code, total: 61
+===A fork was returned by P2
+===A bib was returned by P2
+P1 is hungry!
+P2 ate 8 noodles, total: 25
+===P1 wants a bib
+P2 is sleeping!
+===there are 2 bib
+===A bib was lent to P1
+===P1 wants a fork
+===there are 2 fork
+===A fork was lent to P1
+P2 wrote 17 lines of code, total: 75
+P2 is hungry!
+===P2 wants a bib
+===there are 1 bib
+===A bib was lent to P2
+===P2 wants a fork
+===there are 1 fork
+===A fork was lent to P2
+===A bib was returned by P2
+===A fork was returned by P2
+P2 ate 2 noodles, total: 27
+P2 is sleeping!
+===A bib was returned by P4
+===A fork was returned by P4
+P4 ate 7 noodles, total: 28
+P4 is sleeping!
+P2 wrote 14 lines of code, total: 89
+P2 is hungry!
+===P2 wants a bib
+===there are 2 bib
+===A bib was lent to P2
+===P2 wants a fork
+===there are 2 fork
+===A fork was lent to P2
+P4 wrote 16 lines of code, total: 79
+P4 is hungry!
+===P4 wants a fork
+===there are 1 fork
+===A fork was lent to P4
+===P4 wants a bib
+===there are 1 bib
+===A bib was lent to P4
+===A bib was returned by P3
+===A fork was returned by P3
+P3 ate 10 noodles, total: 31
+P3 is sleeping!
+===A bib was returned by P5
+===A fork was returned by P5
+P5 ate 7 noodles, total: 31
+P5 is sleeping!
+P3 wrote 9 lines of code, total: 45
+P3 is hungry!
+===P3 wants a bib
+===there are 2 bib
+===A bib was lent to P3
+===P3 wants a fork
+===there are 2 fork
+===A fork was lent to P3
+P5 wrote 9 lines of code, total: 65
+P5 is hungry!
+===P5 wants a bib
+===there are 1 bib
+===A bib was lent to P5
+===P5 wants a fork
+===there are 1 fork
+===A fork was lent to P5
+===A fork was returned by P1
+===A bib was returned by P1
+P1 ate 8 noodles, total: 32
+P1 is sleeping!
+P1 wrote 11 lines of code, total: 72
+P1 is hungry!
+===P1 wants a bib
+===there are 1 bib
+===A bib was lent to P1
+===P1 wants a fork
+===there are 1 fork
+===A fork was lent to P1
+===A bib was returned by P3
+===A fork was returned by P3
+P3 ate 3 noodles, total: 34
+P3 is sleeping!
+===A bib was returned by P4
+===A fork was returned by P4
+P4 ate 5 noodles, total: 33
+P4 is sleeping!
+P3 wrote 9 lines of code, total: 54
+P3 is hungry!
+===P3 wants a bib
+===there are 2 bib
+===A bib was lent to P3
+===P3 wants a fork
+===there are 2 fork
+===A fork was lent to P3
+P4 wrote 13 lines of code, total: 92
+P4 is hungry!
+===P4 wants a bib
+===there are 1 bib
+===A bib was lent to P4
+===P4 wants a fork
+===there are 1 fork
+===A fork was lent to P4
+===A bib was returned by P5
+===A fork was returned by P5
+P5 ate 4 noodles, total: 35
+P5 is sleeping!
+===A bib was returned by P2
+===A fork was returned by P2
+P2 ate 7 noodles, total: 34
+P2 is sleeping!
+P2 wrote 14 lines of code, total: 103
+P2 is hungry!
+===P2 wants a bib
+===there are 2 bib
+===A bib was lent to P2
+===P2 wants a fork
+===there are 2 fork
+===A fork was lent to P2
+P5 wrote 9 lines of code, total: 74
+P5 is hungry!
+===P5 wants a bib
+===there are 1 bib
+===A bib was lent to P5
+===P5 wants a fork
+===there are 1 fork
+===A fork was lent to P5
+===A fork was returned by P5
+===A bib was returned by P5
+P5 ate 2 noodles, total: 37
+P5 is sleeping!
+P5 wrote 6 lines of code, total: 80
+P5 is hungry!
+===P5 wants a bib
+===there are 1 bib
+===A bib was lent to P5
+===P5 wants a fork
+===there are 1 fork
+===A fork was lent to P5
+===A fork was returned by P3
+===A bib was returned by P3
+P3 ate 6 noodles, total: 40
+P3 is sleeping!
+P3 wrote 5 lines of code, total: 59
+P3 is hungry!
+===P3 wants a bib
+===there are 1 bib
+===A bib was lent to P3
+===P3 wants a fork
+===there are 1 fork
+===A fork was lent to P3
+===A fork was returned by P4
+===A bib was returned by P4
+P4 ate 8 noodles, total: 41
+P4 is sleeping!
+===A bib was returned by P1
+===A fork was returned by P1
+P1 ate 10 noodles, total: 42
+P1 is sleeping!
+P4 wrote 8 lines of code, total: 100
+P4 is hungry!
+===P4 wants a fork
+===there are 2 fork
+===A fork was lent to P4
+===P4 wants a bib
+===there are 2 bib
+===A bib was lent to P4
+===A fork was returned by P2
+===A bib was returned by P2
+P2 ate 8 noodles, total: 42
+P2 is sleeping!
+P1 wrote 9 lines of code, total: 81
+P1 is hungry!
+===P1 wants a bib
+===there are 2 bib
+===A bib was lent to P1
+===P1 wants a fork
+===there are 2 fork
+===A fork was lent to P1
+P2 wrote 19 lines of code, total: 122
+P2 is hungry!
+===P2 wants a bib
+===there are 1 bib
+===A bib was lent to P2
+===P2 wants a fork
+===there are 1 fork
+===A fork was lent to P2
+===A bib was returned by P5
+===A fork was returned by P5
+P5 ate 8 noodles, total: 45
+P5 is sleeping!
+===A fork was returned by P1
+===A bib was returned by P1
+P1 ate 4 noodles, total: 46
+P1 is sleeping!
+P5 wrote 17 lines of code, total: 97
+P5 is hungry!
+===P5 wants a bib
+===there are 2 bib
+===A bib was lent to P5
+===P5 wants a fork
+===there are 2 fork
+===A fork was lent to P5
+P1 wrote 18 lines of code, total: 99
+P1 is hungry!
+===P1 wants a fork
+===there are 1 fork
+===A fork was lent to P1
+===P1 wants a bib
+===there are 1 bib
+===A bib was lent to P1
+===A fork was returned by P3
+===A bib was returned by P3
+P3 ate 10 noodles, total: 50
+P3 is sleeping!
+===A fork was returned by P2
+===A bib was returned by P2
+P2 ate 7 noodles, total: 49
+P2 is sleeping!
+P3 wrote 19 lines of code, total: 78
+P3 is hungry!
+===P3 wants a bib
+===there are 2 bib
+===A bib was lent to P3
+===P3 wants a fork
+===there are 2 fork
+===A fork was lent to P3
+===A bib was returned by P4
+===A fork was returned by P4
+P4 ate 9 noodles, total: 50
+P4 is sleeping!
+P2 wrote 10 lines of code, total: 132
+P2 is hungry!
+===P2 wants a bib
+===there are 2 bib
+===A bib was lent to P2
+===P2 wants a fork
+===there are 2 fork
+===A fork was lent to P2
+P4 wrote 20 lines of code, total: 120
+P4 is hungry!
+===P4 wants a fork
+===there are 1 fork
+===A fork was lent to P4
+===P4 wants a bib
+===there are 1 bib
+===A bib was lent to P4
+===A bib was returned by P3
+===A fork was returned by P3
+P3 ate 4 noodles, total: 54
+P3 is sleeping!
+P3 wrote 6 lines of code, total: 84
+P3 is hungry!
+===P3 wants a fork
+===there are 1 fork
+===A fork was lent to P3
+===P3 wants a bib
+===there are 1 bib
+===A bib was lent to P3
+===A fork was returned by P1
+===A bib was returned by P1
+P1 ate 9 noodles, total: 55
+P1 is sleeping!
+===A fork was returned by P5
+===A bib was returned by P5
+P5 ate 10 noodles, total: 55
+P5 is sleeping!
+P1 wrote 10 lines of code, total: 109
+P1 is hungry!
+===P1 wants a bib
+===there are 2 bib
+===A bib was lent to P1
+===P1 wants a fork
+===there are 2 fork
+===A fork was lent to P1
+P5 wrote 15 lines of code, total: 112
+P5 is hungry!
+===P5 wants a fork
+===there are 1 fork
+===A fork was lent to P5
+===P5 wants a bib
+===there are 1 bib
+===A bib was lent to P5
+===A bib was returned by P3
+===A fork was returned by P3
+P3 ate 3 noodles, total: 57
+P3 is sleeping!
+P3 wrote 18 lines of code, total: 102
+P3 is hungry!
+===P3 wants a bib
+===there are 1 bib
+===A bib was lent to P3
+===P3 wants a fork
+===there are 1 fork
+===A fork was lent to P3
+===A fork was returned by P2
+===A bib was returned by P2
+P2 ate 10 noodles, total: 59
+P2 is sleeping!
+===A bib was returned by P4
+===A fork was returned by P4
+P4 ate 9 noodles, total: 59
+P4 is sleeping!
+P2 wrote 19 lines of code, total: 151
+P2 is hungry!
+===P2 wants a fork
+===there are 2 fork
+===A fork was lent to P2
+===P2 wants a bib
+===there are 2 bib
+===A bib was lent to P2
+P4 wrote 11 lines of code, total: 131
+P4 is hungry!
+===P4 wants a bib
+===there are 1 bib
+===A bib was lent to P4
+===P4 wants a fork
+===there are 1 fork
+===A fork was lent to P4
+===A fork was returned by P3
+===A bib was returned by P3
+P3 ate 5 noodles, total: 62
+P3 is sleeping!
+===A fork was returned by P1
+===A bib was returned by P1
+P1 ate 6 noodles, total: 61
+P1 is sleeping!
+P3 wrote 7 lines of code, total: 109
+P3 is hungry!
+===P3 wants a bib
+===there are 2 bib
+===A bib was lent to P3
+===P3 wants a fork
+===there are 2 fork
+===A fork was lent to P3
+P1 wrote 8 lines of code, total: 117
+P1 is hungry!
+===P1 wants a bib
+===there are 1 bib
+===A bib was lent to P1
+===P1 wants a fork
+===there are 1 fork
+===A fork was lent to P1
+===A fork was returned by P5
+===A bib was returned by P5
+P5 ate 8 noodles, total: 63
+P5 is sleeping!
+P5 wrote 5 lines of code, total: 117
+P5 is hungry!
+===P5 wants a fork
+===there are 1 fork
+===A fork was lent to P5
+===P5 wants a bib
+===there are 1 bib
+===A bib was lent to P5
+===A fork was returned by P2
+===A bib was returned by P2
+P2 ate 6 noodles, total: 65
+P2 is sleeping!
+P2 wrote 11 lines of code, total: 162
+P2 is hungry!
+===P2 wants a bib
+===there are 1 bib
+===A bib was lent to P2
+===P2 wants a fork
+===there are 1 fork
+===A fork was lent to P2
+===A bib was returned by P1
+===A fork was returned by P1
+===A bib was returned by P3
+===A fork was returned by P3
+P1 ate 6 noodles, total: 67
+P1 is sleeping!
+P3 ate 6 noodles, total: 68
+P3 is sleeping!
+P1 wrote 19 lines of code, total: 136
+P1 is hungry!
+===P1 wants a fork
+===there are 2 fork
+===A fork was lent to P1
+===P1 wants a bib
+===there are 2 bib
+===A bib was lent to P1
+===A bib was returned by P4
+===A fork was returned by P4
+P4 ate 9 noodles, total: 68
+P4 is sleeping!
+P3 wrote 11 lines of code, total: 120
+P3 is hungry!
+===P3 wants a fork
+===there are 2 fork
+===A fork was lent to P3
+===P3 wants a bib
+===there are 2 bib
+===A bib was lent to P3
+P4 wrote 12 lines of code, total: 143
+P4 is hungry!
+===P4 wants a bib
+===there are 1 bib
+===A bib was lent to P4
+===P4 wants a fork
+===there are 1 fork
+===A fork was lent to P4
+===A fork was returned by P1
+===A bib was returned by P1
+P1 ate 3 noodles, total: 70
+P1 is sleeping!
+===A bib was returned by P3
+===A fork was returned by P3
+P3 ate 3 noodles, total: 71
+P3 is sleeping!
+P1 wrote 8 lines of code, total: 144
+P1 is hungry!
+===P1 wants a fork
+===there are 2 fork
+===A fork was lent to P1
+===P1 wants a bib
+===there are 2 bib
+===A bib was lent to P1
+P3 wrote 19 lines of code, total: 139
+P3 is hungry!
+===A bib was returned by P5
+===A fork was returned by P5
+===P3 wants a bib
+P5 ate 8 noodles, total: 71
+P5 is sleeping!
+===there are 2 bib
+===A bib was lent to P3
+===P3 wants a fork
+===there are 2 fork
+===A fork was lent to P3
+===A fork was returned by P4
+===A bib was returned by P4
+P4 ate 3 noodles, total: 71
+P4 is sleeping!
+P5 wrote 13 lines of code, total: 130
+P5 is hungry!
+===P5 wants a fork
+===there are 2 fork
+===A fork was lent to P5
+===P5 wants a bib
+===there are 2 bib
+===A bib was lent to P5
+P4 wrote 18 lines of code, total: 161
+P4 is hungry!
+===P4 wants a fork
+===there are 1 fork
+===A fork was lent to P4
+===P4 wants a bib
+===there are 1 bib
+===A bib was lent to P4
+===A fork was returned by P1
+===A bib was returned by P1
+P1 ate 3 noodles, total: 73
+P1 is sleeping!
+===A bib was returned by P2
+===A fork was returned by P2
+P2 ate 9 noodles, total: 74
+P2 is sleeping!
+P1 wrote 13 lines of code, total: 157
+P1 is hungry!
+===P1 wants a fork
+===there are 2 fork
+===A fork was lent to P1
+===P1 wants a bib
+===there are 2 bib
+===A bib was lent to P1
+P2 wrote 13 lines of code, total: 175
+P2 is hungry!
+===P2 wants a fork
+===there are 1 fork
+===A fork was lent to P2
+===P2 wants a bib
+===there are 1 bib
+===A bib was lent to P2
+===A bib was returned by P4
+===A fork was returned by P4
+P4 ate 5 noodles, total: 76
+P4 is sleeping!
+P4 wrote 11 lines of code, total: 172
+P4 is hungry!
+===P4 wants a fork
+===there are 1 fork
+===A fork was lent to P4
+===P4 wants a bib
+===there are 1 bib
+===A bib was lent to P4
+===A fork was returned by P5
+===A bib was returned by P5
+P5 ate 7 noodles, total: 78
+P5 is sleeping!
+P5 wrote 20 lines of code, total: 150
+P5 is hungry!
+===P5 wants a bib
+===there are 1 bib
+===A bib was lent to P5
+===P5 wants a fork
+===there are 1 fork
+===A fork was lent to P5
+===A bib was returned by P1
+===A fork was returned by P1
+P1 ate 5 noodles, total: 78
+P1 is sleeping!
+P1 wrote 14 lines of code, total: 171
+P1 is hungry!
+===P1 wants a bib
+===there are 1 bib
+===A bib was lent to P1
+===P1 wants a fork
+===there are 1 fork
+===A fork was lent to P1
+===A fork was returned by P3
+===A bib was returned by P3
+P3 ate 10 noodles, total: 81
+P3 is sleeping!
+P3 wrote 11 lines of code, total: 150
+P3 is hungry!
+===P3 wants a fork
+===there are 1 fork
+===A fork was lent to P3
+===P3 wants a bib
+===there are 1 bib
+===A bib was lent to P3
+===A bib was returned by P2
+===A fork was returned by P2
+P2 ate 10 noodles, total: 84
+P2 is sleeping!
+P2 wrote 8 lines of code, total: 183
+P2 is hungry!
+===P2 wants a fork
+===there are 1 fork
+===A fork was lent to P2
+===P2 wants a bib
+===there are 1 bib
+===A bib was lent to P2
+===A fork was returned by P4
+===A bib was returned by P4
+P4 ate 7 noodles, total: 83
+P4 is sleeping!
+P4 wrote 20 lines of code, total: 192
+P4 is hungry!
+===P4 wants a bib
+===there are 1 bib
+===A bib was lent to P4
+===P4 wants a fork
+===there are 1 fork
+===A fork was lent to P4
+===A bib was returned by P5
+===A fork was returned by P5
+P5 ate 7 noodles, total: 85
+===============>P5 is done!
+===A bib was returned by P2
+===A fork was returned by P2
+P2 ate 4 noodles, total: 88
+===============>P2 is done!
+===A fork was returned by P1
+===A bib was returned by P1
+P1 ate 8 noodles, total: 86
+===============>P1 is done!
+===A bib was returned by P3
+===A fork was returned by P3
+P3 ate 10 noodles, total: 91
+===============>P3 is done!
+===A bib was returned by P4
+===A fork was returned by P4
+P4 ate 8 noodles, total: 91
+===============>P4 is done!
