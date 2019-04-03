@@ -35,19 +35,20 @@ class Basket {
     }
 
     /*
-    Simulates getting an item from the basket, by waiting until an item is available and then decrementing numItems.
+    Simulates getting an item from the basket, by waiting until an item is
+        available and then decrementing numItems.
     A timeout is used to ensure there is no deadlock.
-    Method is synchronized to ensure no data races, as only one thread can access this method at a time.
+    Method is synchronized to ensure no data races,
+        as only one thread can access this method at a time.
      */
-    boolean getItem( int timeout, String profName) {
+    synchronized boolean getItem( int timeout, String profName) {
         long startWait;
         long waitMilliSeconds;
         System.out.println("===" +
             profName + " wants a " + this.itemName);
-        System.out.println("===there are " + this.numItems + " " + this.itemName);
-        synchronized (this) {
-            boolean itemAvailable = (this.numItems > 0);
-            if (!itemAvailable) {
+        System.out.println("===" +
+                "there are " + this.numItems + " " + this.itemName);
+            if (this.numItems < 1) {
                 System.out.println("===" +
                         profName + " is waiting for a " + this.itemName);
                 startWait = System.nanoTime();
@@ -58,27 +59,28 @@ class Basket {
                 }
                 waitMilliSeconds = (System.nanoTime() - startWait) / 1000000;
                 System.out.println("===" +
-                        profName + " waited " + waitMilliSeconds + "ms for a " + this.itemName);
+                        profName + " waited " +
+                        waitMilliSeconds + "ms for a " + this.itemName);
             }
-            if (itemAvailable) {
+            if (this.numItems > 0) {
                 System.out.println("===" +
                         "A " + this.itemName + " was lent to " + profName);
                 this.numItems--;
+                return true;
             }
-            return itemAvailable;
-        }
+            return false;
     }
 
     /*
-    Simulates returning an item to the basket, by incrementing numItems and notifying other threads of this change.
-    Method is synchronized to ensure no data races, as only one thread can access this method at a time.
+    Simulates returning an item to the basket, by incrementing numItems
+        and notifying other threads of this change.
+    Method is synchronized to ensure no data races,
+        as only one thread can access this method at a time.
      */
-    void returnItem( String profName) {
+    synchronized void returnItem( String profName) {
         System.out.println("===" +
             "A " + this.itemName + " was returned by " + profName);
-        synchronized (this) {
             this.numItems++;
             this.notifyAll();
-        }
     }
 }

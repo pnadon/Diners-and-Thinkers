@@ -36,18 +36,10 @@ package dinersandthinkers;
 import java.util.Random;
 
 public class Prof extends Thread{
-    //First, we will need two variables: one that represnets  the minimum number of noodles that need to be eaten
-    // for a professor to be considered done, and the other the minimum number of lines that need to be written
-    // for a professor to be considered done. This is so the program actually has an end and doesn't go on forever.
     private static final int NUM_NOODLES_TO_EAT = 85;
     private static final int NUM_LINES_TO_WRITE = 200;
-    //Next, we will need two variables to track the total number of noodles eaten and lines written for the professor.
-    //This is in order to keep track of the professors "progress" to being considered finished. Once these two
-    //variables values equal or exceeds their respective minimum numbers, the professor will be considered finished.
     private int noodlesEaten;
     private int linesWritten;
-    //Now, lets define two more variables to represent the bib basket and fork basket. These will be used later in the
-    //program in order to use a shared bib basket and fork basket between all professor threads.
     private Basket BibBasket;
     private Basket ForkBasket;
 
@@ -67,7 +59,8 @@ public class Prof extends Thread{
         int linesWrittenInTurn;
         int noodlesEatenInTurn;
         Random rand = new Random();
-        while( (this.noodlesEaten < NUM_NOODLES_TO_EAT) && (this.linesWritten < NUM_LINES_TO_WRITE)) {
+        while( (this.noodlesEaten < NUM_NOODLES_TO_EAT)
+                && (this.linesWritten < NUM_LINES_TO_WRITE)) {
 
             System.out.println( this.getName() + " is sleeping!");
             try {
@@ -78,17 +71,21 @@ public class Prof extends Thread{
 
             linesWrittenInTurn = writeCode();
             this.linesWritten += linesWrittenInTurn;
-            System.out.println( this.getName() + " wrote " + linesWrittenInTurn + " lines of code, total: " + this.linesWritten);
+            System.out.println(
+                    this.getName() + " wrote " + linesWrittenInTurn +
+                            " lines of code, total: " + this.linesWritten);
 
             System.out.println( this.getName() + " is hungry!");
             noodlesEatenInTurn = eatNoodles();
             this.noodlesEaten += noodlesEatenInTurn;
-                    System.out.println( this.getName() + " ate " + noodlesEatenInTurn + " noodles, total: " + noodlesEaten);
+                    System.out.println(
+                            this.getName() + " ate " + noodlesEatenInTurn +
+                                    " noodles, total: " + noodlesEaten);
         }
         System.out.println("===============>" + this.getName() + " is done!");
     }
     /*
-    * Simulates a professor writing a random number of lines between 5 and 20
+    Simulates a professor writing a random number of lines between 5 and 20
     */
     private int writeCode() {
         Random rand = new Random();
@@ -101,10 +98,12 @@ public class Prof extends Thread{
         return linesWritten;
     }
     /*
-    * Determines the number of noodles a professor eats between 2 and 10. This method also is where the
-    * professor attempts to obtain a form and a bib (in order to eat). Therefore, it will need to run methods from
-    * the Basket file(defined in this file as BibBasket and ForkBasket) in order to get and return forks and
-    * bibs to a basket shared by all other professor threads.
+    Determines the number of noodles a professor eats between 2 and 10.
+    This method also is where the professor attempts to obtain a fork
+      and a bib (in order to eat).
+    Therefore, it will need to run methods from the Basket
+      file(defined in this file as BibBasket and ForkBasket) in order to get and
+      return forks and bibs to a basket shared by all other professor threads.
     */
     private int eatNoodles() {
         Random rand = new Random();

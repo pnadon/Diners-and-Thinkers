@@ -23,7 +23,8 @@ public class DinersAndThinkers {
         int numProfs = userIn.nextInt();
         userIn.nextLine();
 
-        System.out.println( "Enter the names of the profs, separated by commas (, ): ");
+        System.out.println(
+                "Enter the names of the profs, separated by commas (, ): ");
         String[] profNames = userIn.nextLine().split(", ");
 
         System.out.println( "Enter the number of forks: ");

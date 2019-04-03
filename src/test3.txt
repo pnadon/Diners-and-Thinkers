@@ -1,0 +1,1717 @@
+Enter the number of profs: 
+5
+Enter the names of the profs, separated by commas (, ): 
+P1, P2, P3, P4, P5
+Enter the number of forks: 
+2
+Enter the number of bibs: 
+2
+P2 is sleeping!
+P4 is sleeping!
+P3 is sleeping!
+P1 is sleeping!
+P5 is sleeping!
+P1 wrote 19 lines of code, total: 19
+P4 wrote 12 lines of code, total: 12
+P3 wrote 13 lines of code, total: 13
+P1 is hungry!
+P4 is hungry!
+P3 is hungry!
+===P1 wants a fork
+===there are 2 fork
+===A fork was lent to P1
+===P1 wants a bib
+===there are 2 bib
+===P3 wants a fork
+===A bib was lent to P1
+===there are 1 fork
+===A fork was lent to P3
+===P3 wants a bib
+===P4 wants a fork
+===there are 1 bib
+===there are 0 fork
+===A bib was lent to P3
+===P4 is waiting for a fork
+P5 wrote 15 lines of code, total: 15
+P5 is hungry!
+===P5 wants a fork
+===there are 0 fork
+===P5 is waiting for a fork
+P2 wrote 18 lines of code, total: 18
+P2 is hungry!
+===P2 wants a fork
+===there are 0 fork
+===P2 is waiting for a fork
+===A bib was returned by P3
+===A fork was returned by P3
+P3 ate 4 noodles, total: 4
+P3 is sleeping!
+===P4 waited 406ms for a fork
+===A fork was lent to P4
+===P4 wants a bib
+===P2 waited 372ms for a fork
+===there are 1 bib
+===A bib was lent to P4
+===P5 waited 416ms for a fork
+===P2 wants a bib
+===there are 0 bib
+===P2 is waiting for a bib
+===P5 wants a bib
+===there are 0 bib
+===P5 is waiting for a bib
+P3 wrote 8 lines of code, total: 21
+P3 is hungry!
+===P3 wants a fork
+===there are 0 fork
+===P3 is waiting for a fork
+===A fork was returned by P4
+===A bib was returned by P4
+===P3 waited 219ms for a fork
+===P2 waited 303ms for a bib
+===A bib was lent to P2
+P4 ate 3 noodles, total: 3
+===P5 waited 303ms for a bib
+===A fork was lent to P3
+===P5 wants a bib
+P4 is sleeping!
+===there are 0 bib
+===P5 is waiting for a bib
+===P2 wants a fork
+===P3 wants a bib
+===there are 0 fork
+===there are 0 bib
+===P2 is waiting for a fork
+===P3 is waiting for a bib
+P4 wrote 7 lines of code, total: 19
+P4 is hungry!
+===P4 wants a fork
+===there are 0 fork
+===P4 is waiting for a fork
+===A fork was returned by P1
+===A bib was returned by P1
+===P2 waited 72ms for a fork
+===P5 waited 73ms for a bib
+===A bib was lent to P5
+P1 ate 8 noodles, total: 8
+P1 is sleeping!
+===P3 waited 72ms for a bib
+===A fork was lent to P2
+===A fork was returned by P3
+===P5 wants a fork
+===there are 1 fork
+===A fork was lent to P5
+===P4 waited 25ms for a fork
+===P4 wants a fork
+===there are 0 fork
+===P4 is waiting for a fork
+===P3 wants a fork
+===there are 0 fork
+===P3 is waiting for a fork
+P1 wrote 10 lines of code, total: 29
+P1 is hungry!
+===P1 wants a bib
+===there are 0 bib
+===P1 is waiting for a bib
+===A bib was returned by P2
+===A fork was returned by P2
+P2 ate 2 noodles, total: 2
+===P1 waited 143ms for a bib
+P2 is sleeping!
+===P4 waited 200ms for a fork
+===A bib was lent to P1
+===A fork was lent to P4
+===P4 wants a bib
+===P1 wants a fork
+===there are 0 bib
+===there are 0 fork
+===P4 is waiting for a bib
+===P1 is waiting for a fork
+===P3 waited 201ms for a fork
+===P3 wants a fork
+===there are 0 fork
+===P3 is waiting for a fork
+===A fork was returned by P5
+===A bib was returned by P5
+P5 ate 3 noodles, total: 3
+===P1 waited 98ms for a fork
+===A fork was lent to P1
+===P4 waited 98ms for a bib
+===A bib was lent to P4
+P5 is sleeping!
+===P3 waited 98ms for a fork
+===P3 wants a fork
+===there are 0 fork
+===P3 is waiting for a fork
+P2 wrote 8 lines of code, total: 26
+P2 is hungry!
+===P2 wants a bib
+===there are 0 bib
+===P2 is waiting for a bib
+P5 wrote 10 lines of code, total: 25
+P5 is hungry!
+===P5 wants a fork
+===there are 0 fork
+===P5 is waiting for a fork
+===A bib was returned by P1
+===A fork was returned by P1
+P1 ate 3 noodles, total: 11
+===P3 waited 303ms for a fork
+===P2 waited 296ms for a bib
+===A bib was lent to P2
+===A fork was lent to P3
+===P3 wants a bib
+P1 is sleeping!
+===there are 0 bib
+===P3 is waiting for a bib
+===P2 wants a fork
+===there are 0 fork
+===P2 is waiting for a fork
+===P5 waited 231ms for a fork
+===P5 wants a fork
+===there are 0 fork
+===P5 is waiting for a fork
+P1 wrote 17 lines of code, total: 46
+P1 is hungry!
+===P1 wants a fork
+===there are 0 fork
+===P1 is waiting for a fork
+===A fork was returned by P4
+===A bib was returned by P4
+P4 ate 8 noodles, total: 11
+===P3 waited 500ms for a bib
+===A bib was lent to P3
+===P2 waited 500ms for a fork
+===A fork was lent to P2
+P4 is sleeping!
+===P1 waited 389ms for a fork
+===P1 wants a bib
+===there are 0 bib
+===P1 is waiting for a bib
+===P5 waited 500ms for a fork
+===P5 wants a fork
+===there are 0 fork
+===P5 is waiting for a fork
+P4 wrote 6 lines of code, total: 25
+P4 is hungry!
+===P4 wants a bib
+===there are 0 bib
+===P4 is waiting for a bib
+===A bib was returned by P2
+===A fork was returned by P2
+===P1 waited 803ms for a bib
+===P5 waited 803ms for a fork
+===A fork was lent to P5
+P2 ate 8 noodles, total: 10
+===A bib was lent to P1
+P2 is sleeping!
+===P5 wants a bib
+===there are 0 bib
+===P5 is waiting for a bib
+===P1 wants a fork
+===there are 0 fork
+===P1 is waiting for a fork
+===P4 waited 751ms for a bib
+===P4 wants a fork
+===there are 0 fork
+===P4 is waiting for a fork
+===A bib was returned by P3
+P2 wrote 11 lines of code, total: 37
+===P5 waited 100ms for a bib
+===A bib was lent to P5
+===A fork was returned by P3
+P3 ate 9 noodles, total: 13
+P3 is sleeping!
+P2 is hungry!
+===P1 waited 100ms for a fork
+===A fork was lent to P1
+===P2 wants a fork
+===there are 0 fork
+===P2 is waiting for a fork
+===P4 waited 101ms for a fork
+===P4 wants a fork
+===there are 0 fork
+===P4 is waiting for a fork
+P3 wrote 5 lines of code, total: 26
+P3 is hungry!
+===P3 wants a fork
+===there are 0 fork
+===P3 is waiting for a fork
+===A fork was returned by P1
+===A bib was returned by P1
+===P2 waited 203ms for a fork
+===A fork was lent to P2
+===P2 wants a bib
+===P3 waited 150ms for a fork
+P1 ate 2 noodles, total: 13
+===P3 wants a fork
+===there are 0 fork
+===there are 1 bib
+===A bib was lent to P2
+===P3 is waiting for a fork
+P1 is sleeping!
+===P4 waited 204ms for a fork
+===P4 wants a bib
+===there are 0 bib
+===P4 is waiting for a bib
+P1 wrote 9 lines of code, total: 55
+P1 is hungry!
+===P1 wants a fork
+===there are 0 fork
+===P1 is waiting for a fork
+===A bib was returned by P5
+===A fork was returned by P5
+===P4 waited 400ms for a bib
+===P3 waited 400ms for a fork
+===A fork was lent to P3
+===A bib was lent to P4
+P5 ate 6 noodles, total: 9
+===P3 wants a bib
+===there are 0 bib
+===P3 is waiting for a bib
+===P1 waited 381ms for a fork
+===P1 wants a bib
+P5 is sleeping!
+===P4 wants a fork
+===there are 0 fork
+===there are 0 bib
+===P1 is waiting for a bib
+===P4 is waiting for a fork
+P5 wrote 13 lines of code, total: 38
+P5 is hungry!
+===P5 wants a fork
+===there are 0 fork
+===P5 is waiting for a fork
+===A fork was returned by P2
+===A bib was returned by P2
+P2 ate 8 noodles, total: 18
+===P4 waited 401ms for a fork
+===P3 waited 401ms for a bib
+P2 is sleeping!
+===A bib was lent to P3
+===A fork was lent to P4
+===P1 waited 401ms for a bib
+===P5 waited 375ms for a fork
+===P5 wants a bib
+===there are 0 bib
+===P5 is waiting for a bib
+===P1 wants a bib
+===there are 0 bib
+===P1 is waiting for a bib
+P2 wrote 11 lines of code, total: 48
+P2 is hungry!
+===P2 wants a bib
+===there are 0 bib
+===P2 is waiting for a bib
+===A fork was returned by P3
+===A bib was returned by P3
+P3 ate 4 noodles, total: 17
+P3 is sleeping!
+===P5 waited 403ms for a bib
+===A bib was lent to P5
+===P5 wants a fork
+===there are 1 fork
+===A fork was lent to P5
+===P2 waited 378ms for a bib
+===P2 wants a fork
+===there are 0 fork
+===P2 is waiting for a fork
+===P1 waited 404ms for a bib
+===P1 wants a bib
+===there are 0 bib
+===P1 is waiting for a bib
+P3 wrote 19 lines of code, total: 45
+P3 is hungry!
+===P3 wants a bib
+===there are 0 bib
+===P3 is waiting for a bib
+===A bib was returned by P4
+===A fork was returned by P4
+P4 ate 10 noodles, total: 21
+P4 is sleeping!
+===P2 waited 600ms for a fork
+===A fork was lent to P2
+===P1 waited 600ms for a bib
+===A bib was lent to P1
+===P1 wants a fork
+===P2 wants a bib
+===there are 0 fork
+===there are 0 bib
+===P1 is waiting for a fork
+===P2 is waiting for a bib
+===P3 waited 516ms for a bib
+===P3 wants a fork
+===there are 0 fork
+===P3 is waiting for a fork
+P4 wrote 10 lines of code, total: 35
+P4 is hungry!
+===P4 wants a fork
+===there are 0 fork
+===P4 is waiting for a fork
+===A bib was returned by P5
+===A fork was returned by P5
+===P2 waited 202ms for a bib
+===P1 waited 203ms for a fork
+===A bib was lent to P2
+P5 ate 8 noodles, total: 17
+P5 is sleeping!
+===A fork was lent to P1
+===P4 waited 109ms for a fork
+===P4 wants a bib
+===P3 waited 203ms for a fork
+===there are 0 bib
+===P4 is waiting for a bib
+===P3 wants a bib
+===there are 0 bib
+===P3 is waiting for a bib
+P5 wrote 8 lines of code, total: 46
+P5 is hungry!
+===P5 wants a fork
+===there are 0 fork
+===P5 is waiting for a fork
+===A fork was returned by P1
+===A bib was returned by P1
+===P5 waited 442ms for a fork
+===P4 waited 504ms for a bib
+===A bib was lent to P4
+P1 ate 5 noodles, total: 18
+===P3 waited 505ms for a bib
+===P3 wants a bib
+===there are 0 bib
+===P3 is waiting for a bib
+===A fork was lent to P5
+===P5 wants a bib
+P1 is sleeping!
+===there are 0 bib
+===P5 is waiting for a bib
+===P4 wants a fork
+===there are 0 fork
+===P4 is waiting for a fork
+P1 wrote 16 lines of code, total: 71
+P1 is hungry!
+===P1 wants a bib
+===there are 0 bib
+===P1 is waiting for a bib
+===A fork was returned by P2
+===A bib was returned by P2
+P2 ate 7 noodles, total: 25
+===P4 waited 197ms for a fork
+===P3 waited 198ms for a bib
+===A bib was lent to P3
+P2 is sleeping!
+===P1 waited 97ms for a bib
+===A fork was lent to P4
+===P1 wants a bib
+===P3 wants a fork
+===there are 0 fork
+===P3 is waiting for a fork
+===there are 0 bib
+===P1 is waiting for a bib
+===P5 waited 198ms for a bib
+===A fork was returned by P5
+===P5 wants a fork
+===there are 1 fork
+===A fork was lent to P5
+===P5 wants a bib
+===there are 0 bib
+===P5 is waiting for a bib
+===P3 waited 0ms for a fork
+===A bib was returned by P3
+===P3 wants a bib
+===there are 1 bib
+===A bib was lent to P3
+===P3 wants a fork
+===there are 0 fork
+===P1 waited 0ms for a bib
+===P3 is waiting for a fork
+===P1 wants a bib
+===there are 0 bib
+===P1 is waiting for a bib
+===P5 waited 0ms for a bib
+===A fork was returned by P5
+===P5 wants a fork
+===there are 1 fork
+===A fork was lent to P5
+===P5 wants a bib
+===there are 0 bib
+===P5 is waiting for a bib
+===P3 waited 0ms for a fork
+===A bib was returned by P3
+===P3 wants a bib
+===there are 1 bib
+===A bib was lent to P3
+===P3 wants a fork
+===there are 0 fork
+===P3 is waiting for a fork
+===P1 waited 0ms for a bib
+===P1 wants a bib
+===there are 0 bib
+===P1 is waiting for a bib
+===P5 waited 0ms for a bib
+===A fork was returned by P5
+===P5 wants a fork
+===there are 1 fork
+===A fork was lent to P5
+===P5 wants a bib
+===there are 0 bib
+===P5 is waiting for a bib
+===P3 waited 0ms for a fork
+===A bib was returned by P3
+===P3 wants a fork
+===P1 waited 0ms for a bib
+===A bib was lent to P1
+===there are 0 fork
+===P3 is waiting for a fork
+===P5 waited 0ms for a bib
+===P1 wants a fork
+===there are 0 fork
+===P1 is waiting for a fork
+===A fork was returned by P5
+===P5 wants a fork
+===there are 1 fork
+===A fork was lent to P5
+===P5 wants a bib
+===there are 0 bib
+===P5 is waiting for a bib
+===P3 waited 0ms for a fork
+===P3 wants a fork
+===there are 0 fork
+===P3 is waiting for a fork
+===P1 waited 0ms for a fork
+===A bib was returned by P1
+===P1 wants a fork
+===there are 0 fork
+===P1 is waiting for a fork
+===P5 waited 0ms for a bib
+===A bib was lent to P5
+P2 wrote 9 lines of code, total: 57
+P2 is hungry!
+===P2 wants a fork
+===there are 0 fork
+===P2 is waiting for a fork
+===A fork was returned by P4
+===A bib was returned by P4
+P4 ate 7 noodles, total: 28
+P4 is sleeping!
+===P3 waited 699ms for a fork
+===A fork was lent to P3
+===P3 wants a bib
+===P2 waited 642ms for a fork
+===there are 1 bib
+===A bib was lent to P3
+===P2 wants a fork
+===there are 0 fork
+===P2 is waiting for a fork
+===P1 waited 699ms for a fork
+===P1 wants a fork
+===there are 0 fork
+===P1 is waiting for a fork
+===A fork was returned by P5
+===A bib was returned by P5
+P5 ate 7 noodles, total: 24
+===P2 waited 1ms for a fork
+===A fork was lent to P2
+P5 is sleeping!
+===P1 waited 1ms for a fork
+===P2 wants a bib
+===there are 1 bib
+===A bib was lent to P2
+===P1 wants a bib
+===there are 0 bib
+===P1 is waiting for a bib
+P5 wrote 12 lines of code, total: 58
+P5 is hungry!
+===P5 wants a bib
+===there are 0 bib
+===P5 is waiting for a bib
+P4 wrote 7 lines of code, total: 42
+P4 is hungry!
+===P4 wants a fork
+===there are 0 fork
+===P4 is waiting for a fork
+===A bib was returned by P3
+===A fork was returned by P3
+P3 ate 9 noodles, total: 26
+P3 is sleeping!
+===P4 waited 844ms for a fork
+===A fork was lent to P4
+===P1 waited 899ms for a bib
+===A bib was lent to P1
+===A fork was returned by P2
+===P4 wants a bib
+===there are 0 bib
+===P4 is waiting for a bib
+===P1 wants a fork
+===P5 waited 879ms for a bib
+===there are 1 fork
+===A bib was returned by P2
+===A fork was lent to P1
+P2 ate 9 noodles, total: 34
+===P5 wants a fork
+===there are 0 fork
+===P5 is waiting for a fork
+===P4 waited 0ms for a bib
+===A bib was lent to P4
+P2 is sleeping!
+P3 wrote 12 lines of code, total: 57
+P3 is hungry!
+===P3 wants a fork
+===there are 0 fork
+===P3 is waiting for a fork
+P2 wrote 17 lines of code, total: 74
+P2 is hungry!
+===P2 wants a fork
+===there are 0 fork
+===P2 is waiting for a fork
+===A fork was returned by P1
+===A bib was returned by P1
+P1 ate 9 noodles, total: 27
+===P5 waited 905ms for a fork
+===A fork was lent to P5
+===P5 wants a bib
+===there are 1 bib
+===P2 waited 840ms for a fork
+P1 is sleeping!
+===P3 waited 889ms for a fork
+===A bib was lent to P5
+===P3 wants a fork
+===there are 0 fork
+===P3 is waiting for a fork
+===P2 wants a bib
+===there are 0 bib
+===P2 is waiting for a bib
+P1 wrote 6 lines of code, total: 77
+P1 is hungry!
+===P1 wants a fork
+===there are 0 fork
+===P1 is waiting for a fork
+===A fork was returned by P4
+===A bib was returned by P4
+===P3 waited 95ms for a fork
+===A fork was lent to P3
+P4 ate 10 noodles, total: 38
+P4 is sleeping!
+===P1 waited 7ms for a fork
+===P2 waited 95ms for a bib
+===A bib was lent to P2
+===P2 wants a fork
+===there are 0 fork
+===P1 wants a bib
+===there are 0 bib
+===P1 is waiting for a bib
+===P2 is waiting for a fork
+===P3 wants a bib
+===there are 0 bib
+===P3 is waiting for a bib
+P4 wrote 19 lines of code, total: 61
+P4 is hungry!
+===P4 wants a bib
+===there are 0 bib
+===P4 is waiting for a bib
+===A bib was returned by P5
+===A fork was returned by P5
+P5 ate 7 noodles, total: 31
+P5 is sleeping!
+===P2 waited 607ms for a fork
+===A fork was lent to P2
+===P1 waited 607ms for a bib
+===A bib was lent to P1
+===P1 wants a fork
+===there are 0 fork
+===P1 is waiting for a fork
+===P4 waited 512ms for a bib
+===P4 wants a bib
+===there are 0 bib
+===P4 is waiting for a bib
+===P3 waited 607ms for a bib
+===A fork was returned by P3
+===P3 wants a bib
+===there are 0 bib
+===P1 waited 0ms for a fork
+===A fork was lent to P1
+===P3 is waiting for a bib
+P5 wrote 18 lines of code, total: 76
+P5 is hungry!
+===P5 wants a fork
+===there are 0 fork
+===P5 is waiting for a fork
+===A bib was returned by P1
+===A fork was returned by P1
+P1 ate 3 noodles, total: 30
+P1 is sleeping!
+===P4 waited 302ms for a bib
+===A bib was lent to P4
+===P3 waited 302ms for a bib
+===P3 wants a bib
+===there are 0 bib
+===P3 is waiting for a bib
+===P5 waited 211ms for a fork
+===A fork was lent to P5
+===P5 wants a bib
+===P4 wants a fork
+===there are 0 fork
+===P4 is waiting for a fork
+===there are 0 bib
+===P5 is waiting for a bib
+P1 wrote 11 lines of code, total: 88
+P1 is hungry!
+===P1 wants a bib
+===there are 0 bib
+===P1 is waiting for a bib
+===A bib was returned by P2
+===A fork was returned by P2
+P2 ate 10 noodles, total: 44
+P2 is sleeping!
+===P4 waited 699ms for a fork
+===A fork was lent to P4
+===P3 waited 702ms for a bib
+===A bib was lent to P3
+===P3 wants a fork
+===there are 0 fork
+===P3 is waiting for a fork
+===P1 waited 613ms for a bib
+===P1 wants a fork
+===P5 waited 699ms for a bib
+===there are 0 fork
+===P1 is waiting for a fork
+===A fork was returned by P5
+===P3 waited 0ms for a fork
+===A fork was lent to P3
+===P5 wants a fork
+===there are 0 fork
+===P5 is waiting for a fork
+===P1 waited 0ms for a fork
+===P1 wants a bib
+===there are 0 bib
+===P1 is waiting for a bib
+P2 wrote 12 lines of code, total: 86
+P2 is hungry!
+===P2 wants a fork
+===there are 0 fork
+===P2 is waiting for a fork
+===A bib was returned by P4
+===A fork was returned by P4
+P4 ate 3 noodles, total: 41
+P4 is sleeping!
+===P5 waited 301ms for a fork
+===A fork was lent to P5
+===P1 waited 301ms for a bib
+===A bib was lent to P1
+===P2 waited 262ms for a fork
+===P5 wants a bib
+===P1 wants a fork
+===there are 0 fork
+===P1 is waiting for a fork
+===there are 0 bib
+===P5 is waiting for a bib
+===P2 wants a bib
+===there are 0 bib
+===P2 is waiting for a bib
+P4 wrote 5 lines of code, total: 66
+P4 is hungry!
+===P4 wants a bib
+===there are 0 bib
+===P4 is waiting for a bib
+===A fork was returned by P3
+===A bib was returned by P3
+P3 ate 8 noodles, total: 34
+===P1 waited 503ms for a fork
+===P5 waited 503ms for a bib
+===A bib was lent to P5
+P3 is sleeping!
+===P4 waited 478ms for a bib
+===P4 wants a bib
+===there are 0 bib
+===P4 is waiting for a bib
+===A fork was lent to P1
+===P2 waited 503ms for a bib
+===P2 wants a fork
+===there are 0 fork
+===P2 is waiting for a fork
+P3 wrote 19 lines of code, total: 76
+P3 is hungry!
+===P3 wants a bib
+===there are 0 bib
+===P3 is waiting for a bib
+===A bib was returned by P1
+===A fork was returned by P1
+P1 ate 5 noodles, total: 35
+===P4 waited 505ms for a bib
+===A bib was lent to P4
+P1 is sleeping!
+===P2 waited 505ms for a fork
+===A fork was lent to P2
+===P3 waited 457ms for a bib
+===P4 wants a fork
+===P2 wants a bib
+===there are 0 bib
+===P2 is waiting for a bib
+===there are 0 fork
+===P4 is waiting for a fork
+===P3 wants a fork
+===there are 0 fork
+===P3 is waiting for a fork
+P1 wrote 5 lines of code, total: 93
+P1 is hungry!
+===P1 wants a bib
+===there are 0 bib
+===P1 is waiting for a bib
+===A fork was returned by P5
+===A bib was returned by P5
+P5 ate 6 noodles, total: 37
+===P2 waited 99ms for a bib
+===A bib was lent to P2
+===P4 waited 98ms for a fork
+===P1 waited 44ms for a bib
+P5 is sleeping!
+===A fork was lent to P4
+===P1 wants a fork
+===there are 0 fork
+===P1 is waiting for a fork
+===P3 waited 99ms for a fork
+===P3 wants a bib
+===there are 0 bib
+===P3 is waiting for a bib
+P5 wrote 10 lines of code, total: 86
+P5 is hungry!
+===P5 wants a bib
+===there are 0 bib
+===P5 is waiting for a bib
+===A bib was returned by P2
+===A fork was returned by P2
+P2 ate 6 noodles, total: 50
+P2 is sleeping!
+===P1 waited 604ms for a fork
+===P3 waited 604ms for a bib
+===A bib was lent to P3
+===A fork was lent to P1
+===P5 waited 543ms for a bib
+===P3 wants a fork
+===there are 0 fork
+===P3 is waiting for a fork
+===P5 wants a bib
+===there are 0 bib
+===P5 is waiting for a bib
+===P1 wants a bib
+===there are 0 bib
+===P1 is waiting for a bib
+P2 wrote 11 lines of code, total: 97
+P2 is hungry!
+===P2 wants a fork
+===there are 0 fork
+===P2 is waiting for a fork
+===A bib was returned by P4
+===A fork was returned by P4
+P4 ate 10 noodles, total: 51
+P4 is sleeping!
+===P5 waited 397ms for a bib
+===A bib was lent to P5
+===P3 waited 397ms for a fork
+===P1 waited 397ms for a bib
+===A fork was lent to P3
+===A fork was returned by P1
+===P1 wants a bib
+===there are 0 bib
+===P1 is waiting for a bib
+===P5 wants a fork
+===there are 1 fork
+===A fork was lent to P5
+===P2 waited 354ms for a fork
+===P2 wants a fork
+===there are 0 fork
+===P2 is waiting for a fork
+P4 wrote 7 lines of code, total: 73
+P4 is hungry!
+===P4 wants a fork
+===there are 0 fork
+===P4 is waiting for a fork
+===A bib was returned by P5
+===A fork was returned by P5
+===P1 waited 601ms for a bib
+===P2 waited 601ms for a fork
+===A fork was lent to P2
+P5 ate 6 noodles, total: 43
+===P4 waited 512ms for a fork
+===A bib was lent to P1
+===P1 wants a fork
+P5 is sleeping!
+===there are 0 fork
+===P1 is waiting for a fork
+===P4 wants a bib
+===there are 0 bib
+===P4 is waiting for a bib
+===P2 wants a bib
+===there are 0 bib
+===P2 is waiting for a bib
+P5 wrote 14 lines of code, total: 100
+P5 is hungry!
+===P5 wants a fork
+===there are 0 fork
+===P5 is waiting for a fork
+===A bib was returned by P3
+===A fork was returned by P3
+P3 ate 8 noodles, total: 42
+===P4 waited 197ms for a bib
+===A bib was lent to P4
+===P1 waited 197ms for a fork
+===A fork was lent to P1
+P3 is sleeping!
+===P4 wants a fork
+===there are 0 fork
+===P4 is waiting for a fork
+===P2 waited 197ms for a bib
+===P5 waited 161ms for a fork
+===P5 wants a fork
+===there are 0 fork
+===P5 is waiting for a fork
+===A fork was returned by P2
+===P2 wants a fork
+===there are 1 fork
+===A fork was lent to P2
+===P2 wants a bib
+===there are 0 bib
+===P2 is waiting for a bib
+===P4 waited 0ms for a fork
+===A bib was returned by P4
+===P5 waited 0ms for a fork
+===P5 wants a fork
+===there are 0 fork
+===P5 is waiting for a fork
+===P2 waited 0ms for a bib
+===A bib was lent to P2
+===P4 wants a fork
+===there are 0 fork
+===P4 is waiting for a fork
+P3 wrote 11 lines of code, total: 87
+P3 is hungry!
+===P3 wants a fork
+===there are 0 fork
+===P3 is waiting for a fork
+===A bib was returned by P2
+===A fork was returned by P2
+P2 ate 4 noodles, total: 54
+P2 is sleeping!
+===P5 waited 404ms for a fork
+===A fork was lent to P5
+===P5 wants a bib
+===there are 1 bib
+===A bib was lent to P5
+===P3 waited 305ms for a fork
+===P3 wants a bib
+===there are 0 bib
+===P3 is waiting for a bib
+===P4 waited 404ms for a fork
+===P4 wants a bib
+===there are 0 bib
+===P4 is waiting for a bib
+P2 wrote 9 lines of code, total: 106
+P2 is hungry!
+===P2 wants a bib
+===there are 0 bib
+===P2 is waiting for a bib
+===A fork was returned by P1
+===A bib was returned by P1
+P1 ate 10 noodles, total: 45
+P1 is sleeping!
+===P3 waited 599ms for a bib
+===A bib was lent to P3
+===P3 wants a fork
+===there are 1 fork
+===P2 waited 512ms for a bib
+===A fork was lent to P3
+===P4 waited 599ms for a bib
+===P2 wants a fork
+===P4 wants a bib
+===there are 0 bib
+===P4 is waiting for a bib
+===there are 0 fork
+===P2 is waiting for a fork
+P1 wrote 20 lines of code, total: 113
+P1 is hungry!
+===P1 wants a fork
+===there are 0 fork
+===P1 is waiting for a fork
+===A bib was returned by P3
+===A fork was returned by P3
+P3 ate 2 noodles, total: 44
+===P2 waited 200ms for a fork
+===A fork was lent to P2
+===P4 waited 200ms for a bib
+===P1 waited 142ms for a fork
+===A bib was lent to P4
+P3 is sleeping!
+===P2 wants a bib
+===P1 wants a fork
+===there are 0 fork
+===there are 0 bib
+===P2 is waiting for a bib
+===P1 is waiting for a fork
+===P4 wants a fork
+===there are 0 fork
+===P4 is waiting for a fork
+P3 wrote 15 lines of code, total: 102
+P3 is hungry!
+===P3 wants a bib
+===there are 0 bib
+===P3 is waiting for a bib
+===A bib was returned by P5
+===A fork was returned by P5
+P5 ate 9 noodles, total: 52
+P5 is sleeping!
+===P2 waited 99ms for a bib
+===P1 waited 99ms for a fork
+===A fork was lent to P1
+===A bib was lent to P2
+===P4 waited 99ms for a fork
+===P1 wants a bib
+===there are 0 bib
+===P1 is waiting for a bib
+===P3 waited 41ms for a bib
+===P3 wants a bib
+===there are 0 bib
+===P3 is waiting for a bib
+===A bib was returned by P4
+===P4 wants a fork
+===there are 0 fork
+===P4 is waiting for a fork
+===P1 waited 0ms for a bib
+===A bib was lent to P1
+===P3 waited 0ms for a bib
+===P3 wants a bib
+===there are 0 bib
+===P3 is waiting for a bib
+P5 wrote 15 lines of code, total: 115
+P5 is hungry!
+===P5 wants a bib
+===there are 0 bib
+===P5 is waiting for a bib
+===A fork was returned by P2
+===A bib was returned by P2
+P2 ate 6 noodles, total: 60
+P2 is sleeping!
+===P4 waited 601ms for a fork
+===P3 waited 601ms for a bib
+===A bib was lent to P3
+===A fork was lent to P4
+===P5 waited 577ms for a bib
+===P5 wants a bib
+===P3 wants a fork
+===there are 0 bib
+===P5 is waiting for a bib
+===there are 0 fork
+===P4 wants a bib
+===there are 0 bib
+===P4 is waiting for a bib
+===P3 is waiting for a fork
+===A fork was returned by P1
+===A bib was returned by P1
+===P3 waited 0ms for a fork
+===P5 waited 0ms for a bib
+===A bib was lent to P5
+P1 ate 6 noodles, total: 51
+===P4 waited 0ms for a bib
+===A fork was lent to P3
+P1 is sleeping!
+===A fork was returned by P4
+===P4 wants a bib
+===there are 0 bib
+===P5 wants a fork
+===P4 is waiting for a bib
+===there are 1 fork
+===A fork was lent to P5
+P2 wrote 11 lines of code, total: 117
+P2 is hungry!
+===P2 wants a bib
+===there are 0 bib
+===P2 is waiting for a bib
+P1 wrote 15 lines of code, total: 128
+P1 is hungry!
+===P1 wants a bib
+===there are 0 bib
+===P1 is waiting for a bib
+===A fork was returned by P5
+===A bib was returned by P5
+P5 ate 4 noodles, total: 56
+P5 is sleeping!
+===P4 waited 400ms for a bib
+===A bib was lent to P4
+===P4 wants a fork
+===there are 1 fork
+===A fork was lent to P4
+===P1 waited 292ms for a bib
+===P1 wants a fork
+===P2 waited 352ms for a bib
+===P2 wants a bib
+===there are 0 bib
+===P2 is waiting for a bib
+===there are 0 fork
+===P1 is waiting for a fork
+P5 wrote 10 lines of code, total: 125
+P5 is hungry!
+===P5 wants a fork
+===there are 0 fork
+===P5 is waiting for a fork
+===A fork was returned by P3
+===A bib was returned by P3
+P3 ate 5 noodles, total: 49
+===P1 waited 102ms for a fork
+===A fork was lent to P1
+P3 is sleeping!
+===P5 waited 64ms for a fork
+===P2 waited 102ms for a bib
+===P5 wants a fork
+===A bib was lent to P2
+===there are 0 fork
+===P5 is waiting for a fork
+===P1 wants a bib
+===there are 0 bib
+===P1 is waiting for a bib
+===P2 wants a fork
+===there are 0 fork
+===P2 is waiting for a fork
+P3 wrote 9 lines of code, total: 111
+P3 is hungry!
+===P3 wants a bib
+===there are 0 bib
+===P3 is waiting for a bib
+===A fork was returned by P4
+===A bib was returned by P4
+P4 ate 9 noodles, total: 60
+===P5 waited 798ms for a fork
+===A fork was lent to P5
+===P1 waited 798ms for a bib
+P4 is sleeping!
+===A bib was lent to P1
+===P2 waited 798ms for a fork
+===P5 wants a bib
+===there are 0 bib
+===P5 is waiting for a bib
+===P3 waited 705ms for a bib
+===P3 wants a fork
+===there are 0 fork
+===P3 is waiting for a fork
+===A bib was returned by P2
+===P2 wants a bib
+===there are 1 bib
+===A bib was lent to P2
+===P2 wants a fork
+===P5 waited 0ms for a bib
+===there are 0 fork
+===P2 is waiting for a fork
+===A fork was returned by P5
+===P5 wants a fork
+===there are 1 fork
+===A fork was lent to P5
+===P5 wants a bib
+===there are 0 bib
+===P5 is waiting for a bib
+===P3 waited 0ms for a fork
+===P3 wants a bib
+===P2 waited 0ms for a fork
+===there are 0 bib
+===P3 is waiting for a bib
+===A bib was returned by P2
+===P2 wants a bib
+===there are 1 bib
+===A bib was lent to P2
+===P2 wants a fork
+===there are 0 fork
+===P2 is waiting for a fork
+===P5 waited 0ms for a bib
+===A fork was returned by P5
+===P5 wants a fork
+===there are 1 fork
+===A fork was lent to P5
+===P3 waited 0ms for a bib
+===P2 waited 0ms for a fork
+===P5 wants a bib
+===P3 wants a fork
+===there are 0 fork
+===P3 is waiting for a fork
+===there are 0 bib
+===P5 is waiting for a bib
+===A bib was returned by P2
+===P2 wants a fork
+===there are 0 fork
+===P2 is waiting for a fork
+===P5 waited 0ms for a bib
+===A bib was lent to P5
+P4 wrote 7 lines of code, total: 80
+P4 is hungry!
+===P4 wants a bib
+===there are 0 bib
+===P4 is waiting for a bib
+===A bib was returned by P1
+===A fork was returned by P1
+P1 ate 5 noodles, total: 56
+P1 is sleeping!
+===P3 waited 503ms for a fork
+===A fork was lent to P3
+===P4 waited 451ms for a bib
+===P2 waited 503ms for a fork
+===A bib was lent to P4
+===P4 wants a fork
+===there are 0 fork
+===P4 is waiting for a fork
+===P2 wants a bib
+===there are 0 bib
+===P2 is waiting for a bib
+===P3 wants a bib
+===there are 0 bib
+===P3 is waiting for a bib
+P1 wrote 18 lines of code, total: 146
+P1 is hungry!
+===P1 wants a fork
+===there are 0 fork
+===P1 is waiting for a fork
+===A bib was returned by P5
+===A fork was returned by P5
+P5 ate 9 noodles, total: 65
+P5 is sleeping!
+===P2 waited 399ms for a bib
+===A bib was lent to P2
+===P4 waited 399ms for a fork
+===A fork was lent to P4
+===P3 waited 399ms for a bib
+===P2 wants a fork
+===there are 0 fork
+===P2 is waiting for a fork
+===P1 waited 275ms for a fork
+===P1 wants a bib
+===there are 0 bib
+===P1 is waiting for a bib
+===A fork was returned by P3
+===P3 wants a bib
+===there are 0 bib
+===P3 is waiting for a bib
+===P2 waited 0ms for a fork
+===A fork was lent to P2
+P5 wrote 15 lines of code, total: 140
+P5 is hungry!
+===P5 wants a fork
+===there are 0 fork
+===P5 is waiting for a fork
+===A bib was returned by P2
+===A fork was returned by P2
+P2 ate 2 noodles, total: 62
+P2 is sleeping!
+===P1 waited 204ms for a bib
+===A bib was lent to P1
+===P5 waited 99ms for a fork
+===A fork was lent to P5
+===P3 waited 204ms for a bib
+===P1 wants a fork
+===P5 wants a bib
+===there are 0 fork
+===P1 is waiting for a fork
+===there are 0 bib
+===P3 wants a fork
+===P5 is waiting for a bib
+===there are 0 fork
+===P3 is waiting for a fork
+===A fork was returned by P4
+===A bib was returned by P4
+P2 wrote 20 lines of code, total: 137
+P4 ate 3 noodles, total: 63
+P4 is sleeping!
+P2 is hungry!
+===P5 waited 98ms for a bib
+===A bib was lent to P5
+===P1 waited 98ms for a fork
+===A fork was lent to P1
+===P2 wants a fork
+===there are 0 fork
+===P2 is waiting for a fork
+===P3 waited 100ms for a fork
+===P3 wants a fork
+===there are 0 fork
+===P3 is waiting for a fork
+P4 wrote 10 lines of code, total: 90
+P4 is hungry!
+===P4 wants a bib
+===there are 0 bib
+===P4 is waiting for a bib
+===A bib was returned by P5
+===A fork was returned by P5
+P5 ate 5 noodles, total: 70
+===P4 waited 414ms for a bib
+===A bib was lent to P4
+===P2 waited 502ms for a fork
+===A fork was lent to P2
+===P2 wants a bib
+===P4 wants a fork
+===there are 0 fork
+===P4 is waiting for a fork
+P5 is sleeping!
+===P3 waited 503ms for a fork
+===there are 0 bib
+===P2 is waiting for a bib
+===P3 wants a bib
+===there are 0 bib
+===P3 is waiting for a bib
+P5 wrote 5 lines of code, total: 145
+P5 is hungry!
+===P5 wants a bib
+===there are 0 bib
+===P5 is waiting for a bib
+===A fork was returned by P1
+===A bib was returned by P1
+P1 ate 6 noodles, total: 62
+P1 is sleeping!
+===P4 waited 99ms for a fork
+===P2 waited 99ms for a bib
+===A bib was lent to P2
+===A fork was lent to P4
+===P5 waited 24ms for a bib
+===P5 wants a bib
+===there are 0 bib
+===P5 is waiting for a bib
+===P3 waited 100ms for a bib
+===P3 wants a bib
+===there are 0 bib
+===P3 is waiting for a bib
+P1 wrote 13 lines of code, total: 159
+P1 is hungry!
+===P1 wants a bib
+===there are 0 bib
+===P1 is waiting for a bib
+===A bib was returned by P4
+===A fork was returned by P4
+===P5 waited 505ms for a bib
+P4 ate 5 noodles, total: 68
+P4 is sleeping!
+===A bib was lent to P5
+===P5 wants a fork
+===there are 1 fork
+===A fork was lent to P5
+===P1 waited 468ms for a bib
+===P1 wants a fork
+===there are 0 fork
+===P3 waited 505ms for a bib
+===P3 wants a bib
+===there are 0 bib
+===P1 is waiting for a fork
+===P3 is waiting for a bib
+P4 wrote 10 lines of code, total: 100
+P4 is hungry!
+===P4 wants a bib
+===there are 0 bib
+===P4 is waiting for a bib
+===A fork was returned by P2
+===A bib was returned by P2
+P2 ate 7 noodles, total: 69
+P2 is sleeping!
+===P3 waited 197ms for a bib
+===A bib was lent to P3
+===P1 waited 197ms for a fork
+===P4 waited 134ms for a bib
+===P4 wants a bib
+===there are 0 bib
+===A fork was lent to P1
+===P4 is waiting for a bib
+===P3 wants a fork
+===there are 0 fork
+===P1 wants a bib
+===P3 is waiting for a fork
+===there are 0 bib
+===P1 is waiting for a bib
+P2 wrote 15 lines of code, total: 152
+P2 is hungry!
+===P2 wants a fork
+===there are 0 fork
+===P2 is waiting for a fork
+===A bib was returned by P5
+===A fork was returned by P5
+P5 ate 8 noodles, total: 78
+P5 is sleeping!
+===P3 waited 603ms for a fork
+===A fork was lent to P3
+===P4 waited 603ms for a bib
+===A bib was lent to P4
+===P2 waited 574ms for a fork
+===P1 waited 603ms for a bib
+===P4 wants a fork
+===P2 wants a bib
+===there are 0 bib
+===P2 is waiting for a bib
+===there are 0 fork
+===P4 is waiting for a fork
+===A fork was returned by P1
+===P1 wants a fork
+===there are 1 fork
+===A fork was lent to P1
+===P1 wants a bib
+===there are 0 bib
+===P1 is waiting for a bib
+===P4 waited 0ms for a fork
+===A bib was returned by P4
+===P4 wants a fork
+===there are 0 fork
+===P4 is waiting for a fork
+===P2 waited 0ms for a bib
+===A bib was lent to P2
+===P2 wants a fork
+===there are 0 fork
+===P1 waited 0ms for a bib
+===P2 is waiting for a fork
+===A fork was returned by P1
+===P1 wants a fork
+===there are 1 fork
+===A fork was lent to P1
+===P1 wants a bib
+===there are 0 bib
+===P1 is waiting for a bib
+===P4 waited 0ms for a fork
+===P4 wants a fork
+===there are 0 fork
+===P4 is waiting for a fork
+===P2 waited 0ms for a fork
+===A bib was returned by P2
+===P2 wants a fork
+===there are 0 fork
+===P2 is waiting for a fork
+===P1 waited 0ms for a bib
+===A bib was lent to P1
+P5 wrote 14 lines of code, total: 159
+P5 is hungry!
+===P5 wants a fork
+===there are 0 fork
+===P5 is waiting for a fork
+===A bib was returned by P3
+===A fork was returned by P3
+P3 ate 5 noodles, total: 54
+P3 is sleeping!
+===P4 waited 504ms for a fork
+===A fork was lent to P4
+===P4 wants a bib
+===there are 1 bib
+===P5 waited 421ms for a fork
+===P5 wants a fork
+===A bib was lent to P4
+===there are 0 fork
+===P5 is waiting for a fork
+===P2 waited 504ms for a fork
+===P2 wants a fork
+===there are 0 fork
+===P2 is waiting for a fork
+P3 wrote 12 lines of code, total: 123
+P3 is hungry!
+===P3 wants a fork
+===there are 0 fork
+===P3 is waiting for a fork
+===A fork was returned by P1
+===A bib was returned by P1
+P1 ate 8 noodles, total: 70
+===P5 waited 298ms for a fork
+===A fork was lent to P5
+===P5 wants a bib
+P1 is sleeping!
+===P3 waited 270ms for a fork
+===there are 1 bib
+===A bib was lent to P5
+===P2 waited 298ms for a fork
+===P3 wants a bib
+===P2 wants a fork
+===there are 0 fork
+===P2 is waiting for a fork
+===there are 0 bib
+===P3 is waiting for a bib
+P1 wrote 15 lines of code, total: 174
+P1 is hungry!
+===P1 wants a fork
+===there are 0 fork
+===P1 is waiting for a fork
+===A bib was returned by P5
+===A fork was returned by P5
+P5 ate 3 noodles, total: 81
+===P3 waited 301ms for a bib
+===P2 waited 301ms for a fork
+===A fork was lent to P2
+P5 is sleeping!
+===A bib was lent to P3
+===P1 waited 211ms for a fork
+===P2 wants a bib
+===P3 wants a fork
+===there are 0 fork
+===P3 is waiting for a fork
+===there are 0 bib
+===P2 is waiting for a bib
+===P1 wants a bib
+===there are 0 bib
+===P1 is waiting for a bib
+P5 wrote 18 lines of code, total: 177
+P5 is hungry!
+===P5 wants a fork
+===there are 0 fork
+===P5 is waiting for a fork
+===A bib was returned by P4
+===A fork was returned by P4
+P4 ate 7 noodles, total: 75
+P4 is sleeping!
+===P2 waited 104ms for a bib
+===A bib was lent to P2
+===P3 waited 104ms for a fork
+===A fork was lent to P3
+===P1 waited 104ms for a bib
+===P5 waited 66ms for a fork
+===P5 wants a fork
+===there are 0 fork
+===P5 is waiting for a fork
+===P1 wants a fork
+===there are 0 fork
+===P1 is waiting for a fork
+P4 wrote 13 lines of code, total: 113
+P4 is hungry!
+===P4 wants a bib
+===there are 0 bib
+===P4 is waiting for a bib
+===A bib was returned by P2
+===A fork was returned by P2
+P2 ate 2 noodles, total: 71
+===P4 waited 168ms for a bib
+===A bib was lent to P4
+P2 is sleeping!
+===P5 waited 202ms for a fork
+===A fork was lent to P5
+===P5 wants a bib
+===there are 0 bib
+===P4 wants a fork
+===there are 0 fork
+===P5 is waiting for a bib
+===P4 is waiting for a fork
+===P1 waited 203ms for a fork
+===P1 wants a fork
+===there are 0 fork
+===P1 is waiting for a fork
+P2 wrote 6 lines of code, total: 158
+P2 is hungry!
+===P2 wants a fork
+===there are 0 fork
+===P2 is waiting for a fork
+===A fork was returned by P3
+===A bib was returned by P3
+===P4 waited 197ms for a fork
+===P5 waited 197ms for a bib
+===A fork was lent to P4
+P3 ate 4 noodles, total: 58
+P3 is sleeping!
+===A bib was lent to P5
+===P2 waited 149ms for a fork
+===P1 waited 197ms for a fork
+===P1 wants a fork
+===P2 wants a bib
+===there are 0 bib
+===there are 0 fork
+===P2 is waiting for a bib
+===P1 is waiting for a fork
+P3 wrote 16 lines of code, total: 139
+P3 is hungry!
+===P3 wants a fork
+===there are 0 fork
+===P3 is waiting for a fork
+===A fork was returned by P5
+===A bib was returned by P5
+P5 ate 2 noodles, total: 83
+P5 is sleeping!
+===P1 waited 204ms for a fork
+===P2 waited 204ms for a bib
+===A fork was lent to P1
+===A bib was lent to P2
+===P3 waited 176ms for a fork
+===P1 wants a bib
+===P2 wants a fork
+===there are 0 fork
+===P2 is waiting for a fork
+===there are 0 bib
+===P1 is waiting for a bib
+===P3 wants a bib
+===there are 0 bib
+===P3 is waiting for a bib
+P5 wrote 10 lines of code, total: 187
+P5 is hungry!
+===P5 wants a bib
+===there are 0 bib
+===P5 is waiting for a bib
+===A bib was returned by P4
+===A fork was returned by P4
+P4 ate 3 noodles, total: 78
+===P2 waited 94ms for a fork
+===A fork was lent to P2
+===P1 waited 94ms for a bib
+===A bib was lent to P1
+P4 is sleeping!
+===P5 waited 70ms for a bib
+===P5 wants a fork
+===there are 0 fork
+===P5 is waiting for a fork
+===P3 waited 95ms for a bib
+===P3 wants a bib
+===there are 0 bib
+===P3 is waiting for a bib
+P4 wrote 15 lines of code, total: 128
+P4 is hungry!
+===P4 wants a fork
+===there are 0 fork
+===P4 is waiting for a fork
+===A fork was returned by P2
+===A bib was returned by P2
+===P5 waited 504ms for a fork
+P2 ate 5 noodles, total: 76
+===P3 waited 504ms for a bib
+===A bib was lent to P3
+===A fork was lent to P5
+===P5 wants a bib
+===there are 0 bib
+===P3 wants a fork
+===there are 0 fork
+===P3 is waiting for a fork
+P2 is sleeping!
+===P4 waited 449ms for a fork
+===P5 is waiting for a bib
+===P4 wants a fork
+===there are 0 fork
+===P4 is waiting for a fork
+P2 wrote 16 lines of code, total: 174
+P2 is hungry!
+===P2 wants a fork
+===there are 0 fork
+===P2 is waiting for a fork
+===A fork was returned by P1
+===A bib was returned by P1
+===P3 waited 399ms for a fork
+===A fork was lent to P3
+P1 ate 9 noodles, total: 79
+===P5 waited 399ms for a bib
+===A bib was lent to P5
+P1 is sleeping!
+===P2 waited 365ms for a fork
+===P2 wants a bib
+===P4 waited 399ms for a fork
+===there are 0 bib
+===P2 is waiting for a bib
+===P4 wants a bib
+===there are 0 bib
+===P4 is waiting for a bib
+P1 wrote 5 lines of code, total: 179
+P1 is hungry!
+===P1 wants a bib
+===there are 0 bib
+===P1 is waiting for a bib
+===A bib was returned by P5
+===A fork was returned by P5
+===P2 waited 303ms for a bib
+===A bib was lent to P2
+P5 ate 3 noodles, total: 86
+===P1 waited 285ms for a bib
+===P2 wants a fork
+===P4 waited 303ms for a bib
+===there are 1 fork
+===A fork was lent to P2
+===P4 wants a fork
+===there are 0 fork
+===P4 is waiting for a fork
+===P1 wants a fork
+===there are 0 fork
+===P1 is waiting for a fork
+===============>P5 is done!
+===A bib was returned by P2
+===A fork was returned by P2
+P2 ate 2 noodles, total: 78
+===P4 waited 204ms for a fork
+===A fork was lent to P4
+===P4 wants a bib
+===there are 1 bib
+===A bib was lent to P4
+P2 is sleeping!
+===P1 waited 204ms for a fork
+===P1 wants a bib
+===there are 0 bib
+===P1 is waiting for a bib
+P2 wrote 7 lines of code, total: 181
+P2 is hungry!
+===P2 wants a bib
+===there are 0 bib
+===P2 is waiting for a bib
+===A fork was returned by P3
+===A bib was returned by P3
+P3 ate 10 noodles, total: 68
+P3 is sleeping!
+===P1 waited 491ms for a bib
+===A bib was lent to P1
+===P1 wants a fork
+===there are 1 fork
+===A fork was lent to P1
+===P2 waited 424ms for a bib
+===P2 wants a bib
+===there are 0 bib
+===P2 is waiting for a bib
+P3 wrote 6 lines of code, total: 145
+P3 is hungry!
+===P3 wants a bib
+===there are 0 bib
+===P3 is waiting for a bib
+===A bib was returned by P4
+===A fork was returned by P4
+P4 ate 10 noodles, total: 88
+===P2 waited 512ms for a bib
+===A bib was lent to P2
+===P2 wants a fork
+===============>P4 is done!
+===P3 waited 437ms for a bib
+===there are 1 fork
+===A fork was lent to P2
+===P3 wants a fork
+===there are 0 fork
+===P3 is waiting for a fork
+===A fork was returned by P1
+===A bib was returned by P1
+P1 ate 8 noodles, total: 87
+===============>P1 is done!
+===P3 waited 290ms for a fork
+===A fork was lent to P3
+===P3 wants a bib
+===there are 1 bib
+===A bib was lent to P3
+===A fork was returned by P2
+===A bib was returned by P2
+P2 ate 4 noodles, total: 82
+P2 is sleeping!
+P2 wrote 20 lines of code, total: 201
+P2 is hungry!
+===P2 wants a fork
+===there are 1 fork
+===A fork was lent to P2
+===P2 wants a bib
+===there are 1 bib
+===A bib was lent to P2
+===A fork was returned by P3
+===A bib was returned by P3
+P3 ate 3 noodles, total: 71
+P3 is sleeping!
+P3 wrote 12 lines of code, total: 157
+P3 is hungry!
+===P3 wants a fork
+===there are 1 fork
+===A fork was lent to P3
+===P3 wants a bib
+===there are 1 bib
+===A bib was lent to P3
+===A bib was returned by P2
+===A fork was returned by P2
+P2 ate 8 noodles, total: 90
+===============>P2 is done!
+===A bib was returned by P3
+===A fork was returned by P3
+P3 ate 8 noodles, total: 79
+P3 is sleeping!
+P3 wrote 9 lines of code, total: 166
+P3 is hungry!
+===P3 wants a bib
+===there are 2 bib
+===A bib was lent to P3
+===P3 wants a fork
+===there are 2 fork
+===A fork was lent to P3
+===A bib was returned by P3
+===A fork was returned by P3
+P3 ate 6 noodles, total: 85
+===============>P3 is done!
